@@ -1,0 +1,395 @@
+YEAR,SEMESTER,INSTRUCTOR,SUBJECT,NUMBER,COURSE ID,A,B,C,D,F,W
+2019,Winter,"Roeder, William",E S,D001,E S D001,31,6,2,0,0,3
+2019,Winter,"Wheelehan, Ronald",E S,D001,E S D001,30,7,4,0,2,2
+2019,Spring,"Roeder, William",E S,D001,E S D001,28,4,2,0,0,1
+2019,Winter,"Roeder, William",E S,D001,E S D001,28,6,2,2,0,0
+2019,Winter,"Wheelehan, Ronald",E S,D081,E S D081,27,2,2,1,5,1
+2019,Spring,"Roeder, William",E S,D004,E S D004,26,4,2,0,4,1
+2019,Winter,"Thorensen, Lynn",E S,D003,E S D003,26,3,1,1,3,2
+2019,Spring,"Roeder, William",E S,D001,E S D001,23,6,3,0,1,2
+2019,Spring,"Wheelehan, Ronald",E S,D058,E S D058,22,0,2,1,3,2
+2019,Winter,"Wheelehan, Ronald",E S,D058,E S D058,22,3,2,1,6,1
+2019,Winter,"Roeder, William",E S,D079,E S D079,21,1,4,0,3,1
+2019,Winter,"Roeder, William",E S,D004,E S D004,20,5,1,2,1,1
+2019,Spring,"Thorensen, Lynn",E S,D003,E S D003,18,8,3,1,3,6
+2019,Spring,"Wheelehan, Ronald",E S,D069,E S D069,18,0,2,0,4,2
+2019,Winter,"Roeder, William",E S,D001,E S D001,18,10,8,3,2,2
+2019,Spring,"De Toro, Alicia",E S,D002,E S D002,14,3,5,4,6,2
+2019,Spring,"Thorensen, Lynn",E S,D003,E S D003,14,6,4,3,8,1
+2019,Spring,"Staudinger, Jeffery",E S,D006,E S D006,13,8,2,1,4,8
+2019,Spring,"Staudinger, Jeffery",E S,D062C,E S D062C,13,3,1,0,2,4
+2019,Spring,"Staudinger, Jeffery",E S,D062D,E S D062D,13,4,1,0,1,5
+2019,Winter,"Staudinger, Jeffery",E S,D061A,E S D061A,13,5,2,2,4,4
+2019,Spring,"Poffenroth, Mary",E S,D001,E S D001,12,13,2,2,7,2
+2019,Spring,"Thorensen, Lynn",E S,D003,E S D003,12,7,2,1,1,2
+2019,Spring,"Roeder, William",E S,D069A,E S D069A,12,6,0,1,6,6
+2019,Winter,"Thorensen, Lynn",E S,D003,E S D003,12,15,2,1,5,2
+2019,Winter,"Staudinger, Jeffery",E S,D062A,E S D062A,12,3,1,0,2,4
+2019,Spring,"Maniaci, Massimo",E S,D076A,E S D076A,11,4,4,1,9,2
+2019,Winter,"De Toro, Alicia",E S,D001,E S D001,11,4,3,0,10,0
+2019,Spring,"De Toro, Alicia",E S,D001,E S D001,10,4,0,2,4,1
+2019,Spring,"Staudinger, Jeffery",E S,D061B,E S D061B,10,4,1,0,5,6
+2019,Winter,"Staudinger, Jeffery",E S,D001,E S D001,9,12,4,1,3,4
+2019,Winter,"Staudinger, Jeffery",E S,D062B,E S D062B,9,2,0,0,4,2
+2019,Winter,"Maniaci, Massimo",E S,D070,E S D070,9,8,5,3,11,1
+2019,Spring,"De Toro, Alicia",E S,D001,E S D001,8,5,1,2,7,12
+2019,Winter,"Holman, Richard",E S,D078,E S D078,8,2,1,2,11,2
+2019,Spring,"Holman, Richard",E S,D051C,E S D051C,7,0,0,0,0,1
+2019,Winter,"Maniaci, Massimo",E S,D051B,E S D051B,7,2,0,0,2,1
+2019,Winter,"Staudinger, Jeffery",E S,D077X,E S D077X,4,0,0,0,0,0
+2019,Spring,"De Toro, Alicia",E S,D077X,E S D077X,3,0,0,0,0,0
+2019,Spring,"Maniaci, Massimo",E S,D051A,E S D051A,2,4,1,0,1,1
+2019,Spring,"Staudinger, Jeffery",E S,D077X,E S D077X,1,0,0,0,0,0
+2019,Spring,"Greene, Valerie",E S,D077X,E S D077X,1,0,0,0,0,0
+2019,Spring,"De Toro, Alicia",E S,D077Y,E S D077Y,1,0,0,0,0,1
+2019,Spring,"De Toro, Alicia",E S,D077Z,E S D077Z,1,0,0,0,0,0
+2019,Spring,"Staff, M",E S,D077X,E S D077X,0,0,0,0,,
+2019,Spring,"De Toro, Alicia",E S,D077X,E S D077X,0,0,0,0,,
+2019,Spring,"Staff, M",E S,D077Y,E S D077Y,0,0,0,0,,
+2019,Spring,"Staff, M",E S,D077Z,E S D077Z,0,0,0,0,,
+2019,Winter,"De Toro, Alicia",E S,D077X,E S D077X,0,0,0,0,1,0
+2018,Spring,"Roeder, William",E S,D001,E S D001,31,5,4,0,0,2
+2018,Spring,"Martin, Miriam",E S,D001,E S D001,9,10,5,2,12,1
+2018,Spring,"Sanders, Jana",E S,D001,E S D001,8,9,3,2,2,12
+2018,Spring,"Sanders, Jana",E S,D001,E S D001,9,8,3,3,1,15
+2018,Spring,"Roeder, William",E S,D001,E S D001,25,7,3,0,1,1
+2018,Spring,"Roeder, William",E S,D001,E S D001,19,3,2,1,2,5
+2018,Spring,"De Toro, Alicia",E S,D002,E S D002,15,7,2,3,2,4
+2018,Spring,"Thorensen, Lynn",E S,D003,E S D003,16,6,2,0,6,2
+2018,Spring,"Thorensen, Lynn",E S,D003,E S D003,24,3,0,0,4,3
+2018,Spring,"Staudinger, Jeffery",E S,D006,E S D006,9,3,0,0,2,5
+2018,Spring,"Staudinger, Jeffery",E S,D050,E S D050,11,0,0,0,1,7
+2018,Spring,"Wheelehan, Ronald",E S,D058,E S D058,16,2,1,1,2,2
+2018,Spring,"Staudinger, Jeffery",E S,D061B,E S D061B,15,0,0,1,3,3
+2018,Spring,"Staudinger, Jeffery",E S,D062C,E S D062C,11,2,1,0,2,4
+2018,Spring,"Staudinger, Jeffery",E S,D062D,E S D062D,12,3,1,0,2,4
+2018,Spring,"Wheelehan, Ronald",E S,D069,E S D069,18,4,0,0,1,2
+2018,Spring,"Roeder, William",E S,D069A,E S D069A,16,3,0,0,2,7
+2018,Spring,"Maniaci, Massimo",E S,D071,E S D071,3,4,2,1,6,2
+2018,Spring,"Maniaci, Massimo",E S,D074B,E S D074B,1,2,2,0,0,0
+2018,Spring,"Maniaci, Massimo",E S,D076A,E S D076A,7,10,5,1,2,5
+2018,Spring,"Staudinger, Jeffery",E S,D077X,E S D077X,1,0,0,0,0,0
+2018,Spring,"De Toro, Alicia",E S,D077X,E S D077X,5,1,0,0,0,0
+2018,Spring,"De Toro, Alicia",E S,D077Z,E S D077Z,2,0,0,0,0,0
+2018,Spring,"Holman, Richard",E S,D078B,E S D078B,4,1,0,0,0,0
+2018,Spring,"Roeder, William",E S,D079,E S D079,16,2,2,0,3,2
+2018,Spring,"Roeder, William",E S,D095B,E S D095B,21,0,0,0,2,3
+2018,Winter,"Roeder, William",E S,D001,E S D001,33,4,1,0,2,1
+2018,Winter,"Roeder, William",E S,D001,E S D001,33,5,2,0,0,0
+2018,Winter,"Staudinger, Jeffery",E S,D001,E S D001,9,9,1,3,2,3
+2018,Winter,"Sanders, Jana",E S,D001,E S D001,6,5,7,4,0,15
+2018,Winter,"Roeder, William",E S,D001,E S D001,25,11,5,0,6,2
+2018,Winter,"Roeder, William",E S,D001,E S D001,6,4,5,0,3,3
+2018,Winter,"De Toro, Alicia",E S,D002,E S D002,24,5,0,2,3,3
+2018,Winter,"Thorensen, Lynn",E S,D003,E S D003,18,4,3,0,5,4
+2018,Winter,"Wheelehan, Ronald",E S,D058,E S D058,28,0,1,3,1,0
+2018,Winter,"Staudinger, Jeffery",E S,D061A,E S D061A,17,2,1,0,1,2
+2018,Winter,"Staudinger, Jeffery",E S,D062A,E S D062A,13,3,2,0,2,1
+2018,Winter,"Staudinger, Jeffery",E S,D062B,E S D062B,10,2,1,0,1,1
+2018,Winter,"Maniaci, Massimo",E S,D070,E S D070,9,4,1,0,8,3
+2018,Winter,"Maniaci, Massimo",E S,D070B,E S D070B,1,3,0,0,0,0
+2018,Winter,"Maniaci, Massimo",E S,D071B,E S D071B,1,3,0,0,0,2
+2018,Winter,"Maniaci, Massimo",E S,D074,E S D074,10,6,1,0,8,0
+2018,Winter,"Holman, Richard",E S,D078,E S D078,6,4,5,1,6,3
+2018,Winter,"Wheelehan, Ronald",E S,D082,E S D082,10,4,1,1,0,0
+2018,Fall,"Staudinger, Jeffery",E S,D001,E S D001,15,10,3,0,4,1
+2018,Fall,"Roeder, William",E S,D001,E S D001,29,7,4,2,2,2
+2018,Fall,"Roeder, William",E S,D001,E S D001,21,8,5,0,0,3
+2018,Fall,"Roeder, William",E S,D001,E S D001,27,7,0,0,0,4
+2018,Fall,"De Toro, Alicia",E S,D002,E S D002,15,9,2,4,5,4
+2018,Fall,"Thorensen, Lynn",E S,D003,E S D003,20,6,3,3,6,7
+2018,Fall,"Staudinger, Jeffery",E S,D006,E S D006,7,3,2,0,5,7
+2018,Fall,"Staudinger, Jeffery",E S,D050,E S D050,10,6,0,0,3,5
+2018,Fall,"Sanders, Jana",E S,D056,E S D056,11,1,3,2,3,12
+2018,Fall,"Wheelehan, Ronald",E S,D058,E S D058,30,3,2,0,2,2
+2018,Fall,"Sanders, Jana",E S,D063,E S D063,8,0,4,0,2,4
+2018,Fall,"Staudinger, Jeffery",E S,D064,E S D064,22,4,1,0,2,1
+2018,Fall,"Maniaci, Massimo",E S,D071,E S D071,5,5,0,1,5,3
+2018,Fall,"Wheelehan, Ronald",E S,D076,E S D076,24,0,1,0,3,2
+2018,Fall,"De Toro, Alicia",E S,D077Z,E S D077Z,2,0,0,0,0,0
+2018,Fall,"Wheelehan, Ronald",E S,D082,E S D082,17,1,3,0,4,4
+2018,Fall,"Maniaci, Massimo",E S,D083,E S D083,5,4,5,2,11,3
+2018,Summer,"Roeder, William",E S,D001,E S D001,18,6,1,0,0,1
+2018,Summer,"De Toro, Alicia",E S,D001,E S D001,12,2,4,1,7,3
+2018,Summer,"Roeder, William",E S,D001,E S D001,22,8,2,0,0,1
+2018,Summer,"De Toro, Alicia",E S,D002,E S D002,13,3,3,0,8,6
+2018,Summer,"Thorensen, Lynn",E S,D003,E S D003,24,6,1,1,5,1
+2018,Summer,"De Toro, Alicia",E S,D077X,E S D077X,0,0,0,0,,
+2018,Summer,"De Toro, Alicia",E S,D077Y,E S D077Y,2,0,0,0,0,0
+2018,Summer,"De Toro, Alicia",E S,D077Z,E S D077Z,3,0,0,0,0,0
+2017,Spring,"Roeder, William",E S,D001,E S D001,32,6,1,0,0,1
+2017,Spring,"Martin, Miriam",E S,D001,E S D001,7,12,7,3,10,1
+2017,Spring,"Martin, Miriam",E S,D001,E S D001,18,8,8,1,5,2
+2017,Spring,"Martin, Miriam",E S,D001,E S D001,9,5,2,1,4,1
+2017,Spring,"Roeder, William",E S,D001,E S D001,27,5,1,0,0,2
+2017,Spring,"Roeder, William",E S,D001,E S D001,28,6,1,0,1,0
+2017,Spring,"Poffenroth, Mary",E S,D001,E S D001,4,3,2,0,15,3
+2017,Spring,"Sanders, Jana",E S,D001,E S D001,16,5,5,1,2,7
+2017,Spring,"Srinivasan, Neela",E S,D002,E S D002,11,12,1,0,7,7
+2017,Spring,"Thorensen, Lynn",E S,D003,E S D003,16,8,2,1,2,3
+2017,Spring,"Thorensen, Lynn",E S,D003,E S D003,23,9,1,0,5,3
+2017,Spring,"Staudinger, Jeffery",E S,D006,E S D006,10,6,1,0,1,0
+2017,Spring,"Staudinger, Jeffery",E S,D050,E S D050,13,2,1,1,4,4
+2017,Spring,"Deppen, David",E S,D058,E S D058,19,0,0,0,0,0
+2017,Spring,"Staudinger, Jeffery",E S,D061B,E S D061B,10,5,2,0,4,3
+2017,Spring,"Staudinger, Jeffery",E S,D062C,E S D062C,9,5,0,0,4,3
+2017,Spring,"Staudinger, Jeffery",E S,D062D,E S D062D,12,5,1,0,3,4
+2017,Spring,"Sanders, Jana",E S,D067,E S D067,13,3,1,1,4,2
+2017,Spring,"Sanders, Jana",E S,D068,E S D068,13,1,0,1,4,0
+2017,Spring,"Maniaci, Massimo",E S,D070,E S D070,1,3,1,2,2,0
+2017,Spring,"Maniaci, Massimo",E S,D071,E S D071,2,3,2,0,1,1
+2017,Spring,"Abboud, Samir",E S,D072B,E S D072B,7,2,0,0,0,0
+2017,Spring,"Maniaci, Massimo",E S,D074B,E S D074B,4,1,0,0,1,1
+2017,Spring,"Abboud, Samir",E S,D075,E S D075,0,7,11,0,3,3
+2017,Spring,"Wheelehan, Ronald",E S,D076,E S D076,18,2,0,0,3,1
+2017,Spring,"Holman, Richard",E S,D078B,E S D078B,7,2,0,0,0,0
+2017,Spring,"Hamidi, Ridha",E S,D084,E S D084,6,0,0,0,2,1
+2017,Winter,"Roeder, William",E S,D001,E S D001,33,7,2,0,3,0
+2017,Winter,"Staudinger, Jeffery",E S,D001,E S D001,10,8,4,0,5,2
+2017,Winter,"Martin, Miriam",E S,D001,E S D001,16,7,2,3,4,5
+2017,Winter,"Martin, Miriam",E S,D001,E S D001,28,3,1,1,3,3
+2017,Winter,"Roeder, William",E S,D001,E S D001,25,7,1,2,0,1
+2017,Winter,"Roeder, William",E S,D001,E S D001,14,4,2,1,2,8
+2017,Winter,"Sullivan, Kristin",E S,D002,E S D002,17,10,8,1,2,3
+2017,Winter,"Thorensen, Lynn",E S,D003,E S D003,14,3,1,0,1,3
+2017,Winter,"Thorensen, Lynn",E S,D003,E S D003,22,2,3,1,3,5
+2017,Winter,"Staudinger, Jeffery",E S,D050,E S D050,12,1,1,0,6,9
+2017,Winter,"Deppen, David",E S,D058,E S D058,16,1,0,0,0,0
+2017,Winter,"Staudinger, Jeffery",E S,D061A,E S D061A,15,4,3,0,3,6
+2017,Winter,"Staudinger, Jeffery",E S,D062A,E S D062A,12,2,2,1,3,6
+2017,Winter,"Staudinger, Jeffery",E S,D062B,E S D062B,10,2,2,1,2,6
+2017,Winter,"Sullivan, Kristin",E S,D064,E S D064,7,1,1,0,0,1
+2017,Winter,"Roeder, William",E S,D065,E S D065,17,1,0,0,0,0
+2017,Winter,"Roeder, William",E S,D066,E S D066,16,0,0,0,0,1
+2017,Winter,"Maniaci, Massimo",E S,D070,E S D070,2,3,2,2,8,7
+2017,Winter,"Maniaci, Massimo",E S,D070B,E S D070B,5,3,0,1,2,1
+2017,Winter,"Maniaci, Massimo",E S,D071B,E S D071B,3,3,0,0,0,0
+2017,Winter,"Maniaci, Massimo",E S,D072,E S D072,1,1,3,0,6,6
+2017,Winter,"Maniaci, Massimo",E S,D076A,E S D076A,2,3,2,1,3,2
+2017,Winter,"Holman, Richard",E S,D078,E S D078,1,2,2,0,6,0
+2017,Winter,"Roeder, William",E S,D079,E S D079,19,1,1,0,0,0
+2017,Winter,"Sullivan, Kristin",E S,D080,E S D080,15,4,0,2,0,2
+2017,Winter,"Wheelehan, Ronald",E S,D082,E S D082,13,0,0,0,1,0
+2017,Winter,"Roeder, William",E S,D083,E S D083,17,0,0,0,2,0
+2017,Winter,"Sullivan, Kristin",E S,D095,E S D095,11,3,1,0,1,1
+2017,Fall,"Roeder, William",E S,D001,E S D001,33,5,0,0,0,0
+2017,Fall,"Roeder, William",E S,D001,E S D001,19,7,0,0,2,1
+2017,Fall,"Staudinger, Jeffery",E S,D001,E S D001,11,7,1,0,4,1
+2017,Fall,"De Toro, Alicia",E S,D001,E S D001,8,2,4,4,12,6
+2017,Fall,"De Toro, Alicia",E S,D001,E S D001,6,2,3,2,6,0
+2017,Fall,"Martin, Miriam",E S,D001,E S D001,9,4,2,2,4,4
+2017,Fall,"Roeder, William",E S,D001,E S D001,25,1,1,0,2,4
+2017,Fall,"Sanders, Jana",E S,D001,E S D001,7,11,6,5,2,8
+2017,Fall,"De Toro, Alicia",E S,D002,E S D002,21,8,2,3,3,3
+2017,Fall,"Thorensen, Lynn",E S,D003,E S D003,12,5,2,1,3,0
+2017,Fall,"Thorensen, Lynn",E S,D003,E S D003,20,7,2,2,1,10
+2017,Fall,"Staudinger, Jeffery",E S,D006,E S D006,4,7,1,1,0,1
+2017,Fall,"Staudinger, Jeffery",E S,D006,E S D006,13,3,1,0,0,6
+2017,Fall,"Staudinger, Jeffery",E S,D050,E S D050,10,0,2,1,2,4
+2017,Fall,"Sanders, Jana",E S,D056,E S D056,9,7,1,1,4,4
+2017,Fall,"Maniaci, Massimo",E S,D058,E S D058,9,3,2,0,3,6
+2017,Fall,"Staudinger, Jeffery",E S,D064,E S D064,16,5,2,1,0,4
+2017,Fall,"Roeder, William",E S,D069A,E S D069A,11,0,0,0,4,2
+2017,Fall,"Maniaci, Massimo",E S,D071,E S D071,3,3,2,0,0,2
+2017,Fall,"Maniaci, Massimo",E S,D075B,E S D075B,2,5,1,0,0,1
+2017,Fall,"Wheelehan, Ronald",E S,D076,E S D076,12,1,2,1,1,2
+2017,Fall,"De Toro, Alicia",E S,D077X,E S D077X,1,0,0,0,0,0
+2017,Fall,"De Toro, Alicia",E S,D077Y,E S D077Y,0,0,0,0,,
+2017,Fall,"De Toro, Alicia",E S,D077Z,E S D077Z,0,0,0,0,,
+2017,Fall,"Holman, Richard",E S,D078,E S D078,5,1,3,0,4,3
+2017,Fall,"Roeder, William",E S,D079,E S D079,16,2,0,1,8,0
+2017,Fall,"Wheelehan, Ronald",E S,D081,E S D081,15,1,0,0,1,0
+2017,Fall,"Roeder, William",E S,D095B,E S D095B,2,0,0,0,0,0
+2017,Summer,"Frisbee, Adrienne",E S,D001,E S D001,9,2,1,0,0,2
+2017,Summer,"Roeder, William",E S,D001,E S D001,34,4,1,0,0,3
+2017,Summer,"De Toro, Alicia",E S,D001,E S D001,22,0,0,2,2,5
+2017,Summer,"Sanders, Jana",E S,D001,E S D001,9,9,2,1,5,1
+2017,Summer,"Thorensen, Lynn",E S,D003,E S D003,19,4,2,0,7,5
+2017,Summer,"De Toro, Alicia",E S,D065,E S D065,13,0,0,1,3,1
+2017,Summer,"De Toro, Alicia",E S,D066,E S D066,10,1,1,0,2,1
+2017,Summer,"Maniaci, Massimo",E S,D070,E S D070,1,1,1,0,3,0
+2017,Summer,"Wheelehan, Ronald",E S,D076,E S D076,10,0,0,0,4,1
+2017,Summer,"De Toro, Alicia",E S,D077X,E S D077X,1,0,0,0,0,0
+2017,Summer,"De Toro, Alicia",E S,D077Z,E S D077Z,0,0,0,0,,
+2017,Summer,"Roeder, William",E S,D078,E S D078,7,1,0,0,1,0
+2017,Summer,"Roeder, William",E S,D079,E S D079,9,0,0,0,0,1
+2016,Spring,"De Toro, Alicia",E S,D001,E S D001,9,3,0,4,10,4
+2016,Spring,"Roeder, William",E S,D001,E S D001,33,6,4,0,0,2
+2016,Spring,"Staudinger, Jeffery",E S,D001,E S D001,8,4,2,1,3,3
+2016,Spring,"Frisbee, Adrienne",E S,D001,E S D001,20,5,2,1,4,8
+2016,Spring,"Nakase, Dana",E S,D001,E S D001,22,10,4,1,3,1
+2016,Spring,"Roeder, William",E S,D001,E S D001,42,5,1,0,1,2
+2016,Spring,"Sanders, Jana",E S,D001,E S D001,5,5,3,1,4,14
+2016,Spring,"Poffenroth, Mary",E S,D001,E S D001,14,2,2,0,6,3
+2016,Spring,"Andonian, Krikor",E S,D002,E S D002,22,8,5,0,6,3
+2016,Spring,"Thorensen, Lynn",E S,D003,E S D003,18,10,3,3,2,1
+2016,Spring,"Thorensen, Lynn",E S,D003,E S D003,32,4,0,1,5,4
+2016,Spring,"Staudinger, Jeffery",E S,D006,E S D006,7,6,5,1,1,3
+2016,Spring,"Deppen, David",E S,D058,E S D058,23,0,0,0,4,0
+2016,Spring,"Staudinger, Jeffery",E S,D061B,E S D061B,9,8,3,1,4,3
+2016,Spring,"Staudinger, Jeffery",E S,D062C,E S D062C,8,6,1,1,6,6
+2016,Spring,"Staudinger, Jeffery",E S,D062D,E S D062D,12,1,3,0,4,3
+2016,Spring,"Sanders, Jana",E S,D063,E S D063,10,2,1,1,3,5
+2016,Spring,"De Toro, Alicia",E S,D067,E S D067,12,2,1,2,1,2
+2016,Spring,"De Toro, Alicia",E S,D068,E S D068,6,4,1,0,5,0
+2016,Spring,"Wheelehan, Ronald",E S,D069,E S D069,8,1,0,0,1,0
+2016,Spring,"Maniaci, Massimo",E S,D070,E S D070,3,4,5,0,9,3
+2016,Spring,"Holman, Richard",E S,D071,E S D071,6,0,3,1,7,3
+2016,Spring,"Celio, Richard",E S,D073,E S D073,2,2,1,1,3,5
+2016,Spring,"Celio, Richard",E S,D075,E S D075,4,4,0,0,2,7
+2016,Spring,"Wheelehan, Ronald",E S,D076,E S D076,16,4,0,0,3,4
+2016,Spring,"Maniaci, Massimo",E S,D076A,E S D076A,4,3,2,0,1,0
+2016,Spring,"De Toro, Alicia",E S,D077X,E S D077X,2,0,0,0,0,0
+2016,Spring,"De Toro, Alicia",E S,D077Y,E S D077Y,0,0,0,0,,
+2016,Spring,"De Toro, Alicia",E S,D077Z,E S D077Z,0,0,0,0,,
+2016,Spring,"Holman, Richard",E S,D078,E S D078,7,4,0,0,0,0
+2016,Spring,"Roeder, William",E S,D079,E S D079,13,1,1,0,1,0
+2016,Spring,"Roeder, William",E S,D095B,E S D095B,0,0,0,0,,
+2016,Spring,"Roeder, William",E S,D095C,E S D095C,10,0,0,0,1,0
+2016,Winter,"Roeder, William",E S,D001,E S D001,33,5,0,0,1,1
+2016,Winter,"Roeder, William",E S,D001,E S D001,31,6,5,1,5,2
+2016,Winter,"De Toro, Alicia",E S,D001,E S D001,19,5,3,0,9,6
+2016,Winter,"Staudinger, Jeffery",E S,D001,E S D001,7,7,2,0,4,4
+2016,Winter,"Martin, Miriam",E S,D001,E S D001,9,9,2,2,13,1
+2016,Winter,"Poffenroth, Mary",E S,D001,E S D001,18,5,2,0,2,9
+2016,Winter,"Sanders, Jana",E S,D001,E S D001,9,8,1,3,0,16
+2016,Winter,"Sullivan, Kristin",E S,D002,E S D002,23,9,4,0,6,0
+2016,Winter,"Sullivan, Kristin",E S,D002,E S D002,1,0,0,0,0,0
+2016,Winter,"Thorensen, Lynn",E S,D003,E S D003,23,9,3,0,4,3
+2016,Winter,"Thorensen, Lynn",E S,D003,E S D003,1,0,0,0,0,0
+2016,Winter,"Thorensen, Lynn",E S,D003,E S D003,27,6,4,1,2,1
+2016,Winter,"Staudinger, Jeffery",E S,D050,E S D050,18,5,0,0,2,8
+2016,Winter,"Deppen, David",E S,D058,E S D058,21,0,0,0,9,0
+2016,Winter,"Staudinger, Jeffery",E S,D061A,E S D061A,18,1,5,0,5,9
+2016,Winter,"Staudinger, Jeffery",E S,D062B,E S D062B,14,2,2,0,6,0
+2016,Winter,"Sullivan, Kristin",E S,D064,E S D064,11,9,0,3,2,2
+2016,Winter,"De Toro, Alicia",E S,D065,E S D065,12,1,3,2,0,2
+2016,Winter,"De Toro, Alicia",E S,D066,E S D066,13,0,3,1,3,0
+2016,Winter,"Maniaci, Massimo",E S,D070,E S D070,5,4,3,0,2,0
+2016,Winter,"Holman, Richard",E S,D071,E S D071,5,5,2,0,1,0
+2016,Winter,"Maniaci, Massimo",E S,D072,E S D072,6,4,3,4,3,1
+2016,Winter,"Celio, Richard",E S,D073,E S D073,12,0,5,3,13,2
+2016,Winter,"Maniaci, Massimo",E S,D074,E S D074,6,8,1,0,6,2
+2016,Winter,"Celio, Richard",E S,D075,E S D075,6,0,1,0,5,0
+2016,Winter,"Roeder, William",E S,D076,E S D076,12,2,1,0,1,3
+2016,Winter,"Maniaci, Massimo",E S,D076A,E S D076A,1,5,4,6,7,3
+2016,Winter,"De Toro, Alicia",E S,D077X,E S D077X,4,0,0,0,0,0
+2016,Winter,"De Toro, Alicia",E S,D077Y,E S D077Y,1,0,0,0,0,0
+2016,Winter,"Roeder, William",E S,D079,E S D079,11,4,4,1,4,4
+2016,Winter,"Sullivan, Kristin",E S,D080,E S D080,17,2,0,0,5,2
+2016,Winter,"Sullivan, Kristin",E S,D095,E S D095,5,3,0,0,7,1
+2016,Winter,"Roeder, William",E S,D095B,E S D095B,11,0,0,0,1,0
+2016,Winter,"Roeder, William",E S,D095B,E S D095B,1,0,0,0,0,0
+2016,Fall,"Martin, Miriam",E S,D001,E S D001,16,7,7,4,2,3
+2016,Fall,"Martin, Miriam",E S,D001,E S D001,11,11,7,4,4,1
+2016,Fall,"Staudinger, Jeffery",E S,D001,E S D001,16,11,2,1,3,3
+2016,Fall,"Roeder, William",E S,D001,E S D001,41,7,2,0,2,2
+2016,Fall,"Roeder, William",E S,D001,E S D001,45,6,0,0,2,4
+2016,Fall,"Sanders, Jana",E S,D001,E S D001,13,4,2,2,6,13
+2016,Fall,"Roeder, William",E S,D001,E S D001,26,6,2,0,3,3
+2016,Fall,"Sullivan, Kristin",E S,D002,E S D002,15,8,6,2,6,3
+2016,Fall,"Thorensen, Lynn",E S,D003,E S D003,9,5,4,1,2,4
+2016,Fall,"Thorensen, Lynn",E S,D003,E S D003,24,2,3,1,5,6
+2016,Fall,"Staudinger, Jeffery",E S,D006,E S D006,6,2,0,3,2,6
+2016,Fall,"Staudinger, Jeffery",E S,D006,E S D006,15,2,1,2,1,4
+2016,Fall,"Staudinger, Jeffery",E S,D050,E S D050,9,2,1,3,10,4
+2016,Fall,"Sullivan, Kristin",E S,D056,E S D056,15,0,1,2,1,3
+2016,Fall,"Deppen, David",E S,D058,E S D058,23,0,0,0,1,0
+2016,Fall,"Staudinger, Jeffery",E S,D064,E S D064,14,4,2,0,3,1
+2016,Fall,"Wheelehan, Ronald",E S,D069,E S D069,5,2,0,0,1,1
+2016,Fall,"Maniaci, Massimo",E S,D070,E S D070,4,0,2,1,0,0
+2016,Fall,"Maniaci, Massimo",E S,D071,E S D071,1,3,0,0,1,0
+2016,Fall,"Maniaci, Massimo",E S,D072,E S D072,1,2,2,2,7,7
+2016,Fall,"Maniaci, Massimo",E S,D074,E S D074,3,2,0,0,8,8
+2016,Fall,"Roeder, William",E S,D075,E S D075,6,0,0,0,5,2
+2016,Fall,"Wheelehan, Ronald",E S,D076,E S D076,8,1,3,1,5,3
+2016,Fall,"Muthyala-Kandula, Anita",E S,D077X,E S D077X,0,0,0,0,,
+2016,Fall,"Muthyala-Kandula, Anita",E S,D077Y,E S D077Y,1,0,0,0,0,0
+2016,Fall,"Muthyala-Kandula, Anita",E S,D077Z,E S D077Z,0,0,0,0,,
+2016,Fall,"Holman, Richard",E S,D078,E S D078,2,0,1,0,1,0
+2016,Fall,"Roeder, William",E S,D079,E S D079,5,0,0,0,0,0
+2016,Fall,"Sullivan, Kristin",E S,D080Y,E S D080Y,3,3,1,0,7,5
+2016,Fall,"Hamidi, Ridha",E S,D084,E S D084,11,0,0,0,0,0
+2016,Fall,"Sullivan, Kristin",E S,D095,E S D095,8,6,0,0,2,0
+2016,Fall,"Roeder, William",E S,D095C,E S D095C,2,0,0,0,2,2
+2016,Summer,"Martin, Miriam",E S,D001,E S D001,16,5,1,0,3,1
+2016,Summer,"Sanders, Jana",E S,D001,E S D001,9,5,6,0,0,12
+2016,Summer,"De Toro, Alicia",E S,D001,E S D001,19,2,2,2,5,1
+2016,Summer,"Poffenroth, Mary",E S,D001,E S D001,11,2,1,1,4,10
+2016,Summer,"Poffenroth, Mary",E S,D001,E S D001,13,0,3,0,6,8
+2016,Summer,"Thorensen, Lynn",E S,D003,E S D003,20,3,2,2,2,6
+2016,Summer,"De Toro, Alicia",E S,D065,E S D065,11,1,1,1,3,4
+2016,Summer,"De Toro, Alicia",E S,D066,E S D066,9,1,3,1,2,2
+2016,Summer,"De Toro, Alicia",E S,D067,E S D067,10,1,1,1,1,2
+2016,Summer,"De Toro, Alicia",E S,D068,E S D068,4,0,0,1,2,1
+2016,Summer,"Wheelehan, Ronald",E S,D069,E S D069,2,4,0,0,0,0
+2016,Summer,"Maniaci, Massimo",E S,D070,E S D070,5,1,4,0,2,0
+2016,Summer,"Roeder, William",E S,D071,E S D071,4,1,0,0,0,1
+2016,Summer,"Maniaci, Massimo",E S,D072,E S D072,2,3,1,0,3,0
+2016,Summer,"Celio, Richard",E S,D073,E S D073,1,0,1,1,1,1
+2016,Summer,"Maniaci, Massimo",E S,D074,E S D074,4,0,0,0,1,1
+2016,Summer,"Celio, Richard",E S,D075,E S D075,4,0,1,0,1,0
+2016,Summer,"Wheelehan, Ronald",E S,D076,E S D076,4,0,0,0,1,1
+2016,Summer,"Maniaci, Massimo",E S,D076A,E S D076A,0,2,0,0,0,1
+2016,Summer,"De Toro, Alicia",E S,D077X,E S D077X,0,0,0,0,,
+2016,Summer,"De Toro, Alicia",E S,D077Y,E S D077Y,0,0,0,0,,
+2016,Summer,"De Toro, Alicia",E S,D077Z,E S D077Z,0,0,0,0,,
+2016,Summer,"Roeder, William",E S,D078,E S D078,2,0,0,0,3,1
+2016,Summer,"Roeder, William",E S,D079,E S D079,5,1,1,0,1,1
+2016,Summer,"Roeder, William",E S,D095B,E S D095B,1,0,0,0,1,0
+2015,Fall,"Frisbee, Adrienne",E S,D001,E S D001,18,6,6,0,9,2
+2015,Fall,"De Toro, Alicia",E S,D001,E S D001,17,10,4,4,9,0
+2015,Fall,"Staudinger, Jeffery",E S,D001,E S D001,12,12,3,1,6,3
+2015,Fall,"Frisbee, Adrienne",E S,D001,E S D001,18,5,5,2,2,3
+2015,Fall,"Roeder, William",E S,D001,E S D001,27,9,4,0,1,1
+2015,Fall,"Nakase, Dana",E S,D001,E S D001,20,10,6,1,4,0
+2015,Fall,"Nakase, Dana",E S,D001,E S D001,28,5,5,1,9,0
+2015,Fall,"Sanders, Jana",E S,D001,E S D001,14,5,1,2,2,14
+2015,Fall,"Sanders, Jana",E S,D001,E S D001,12,3,1,3,4,22
+2015,Summer,"De Toro, Alicia",E S,D001,E S D001,10,2,2,2,2,2
+2015,Summer,"Nakase, Dana",E S,D001,E S D001,17,1,0,0,0,1
+2015,Summer,"Sanders, Jana",E S,D001,E S D001,12,5,1,0,0,5
+2015,Fall,"Sullivan, Kristin",E S,D002,E S D002,12,5,5,3,9,2
+2015,Fall,"Andonian, Krikor",E S,D002,E S D002,13,7,5,0,9,3
+2015,Fall,"Sullivan, Kristin",E S,D002,E S D002,0,0,0,0,,
+2015,Fall,"Thorensen, Lynn",E S,D003,E S D003,7,4,2,0,1,2
+2015,Fall,"Thorensen, Lynn",E S,D003,E S D003,24,2,2,0,5,8
+2015,Summer,"Thorensen, Lynn",E S,D003,E S D003,22,5,2,1,3,8
+2015,Fall,"Staudinger, Jeffery",E S,D006,E S D006,8,4,4,3,3,1
+2015,Fall,"Staudinger, Jeffery",E S,D006,E S D006,6,3,1,1,1,5
+2015,Fall,"Staudinger, Jeffery",E S,D050,E S D050,12,5,2,1,5,11
+2015,Fall,"Sullivan, Kristin",E S,D056,E S D056,13,6,1,0,2,0
+2015,Fall,"Sullivan, Kristin",E S,D056,E S D056,1,0,0,0,0,0
+2015,Fall,"Deppen, David",E S,D058,E S D058,18,0,0,0,10,0
+2015,Fall,"Staudinger, Jeffery",E S,D062A,E S D062A,8,6,2,0,2,6
+2015,Summer,"De Toro, Alicia",E S,D065,E S D065,9,3,3,0,4,4
+2015,Summer,"De Toro, Alicia",E S,D066,E S D066,12,1,0,1,2,4
+2015,Summer,"De Toro, Alicia",E S,D067,E S D067,3,4,0,1,7,2
+2015,Summer,"De Toro, Alicia",E S,D068,E S D068,4,0,1,0,0,3
+2015,Fall,"Maniaci, Massimo",E S,D070,E S D070,5,3,3,2,16,2
+2015,Summer,"Wheelehan, Ronald",E S,D070,E S D070,6,2,1,0,1,5
+2015,Fall,"Holman, Richard",E S,D071,E S D071,3,5,1,0,10,0
+2015,Fall,"Maniaci, Massimo",E S,D072,E S D072,3,2,1,0,0,0
+2015,Summer,"Wheelehan, Ronald",E S,D072,E S D072,4,0,0,0,1,2
+2015,Fall,"Celio, Richard",E S,D073,E S D073,5,3,0,0,0,0
+2015,Summer,"Celio, Richard",E S,D073,E S D073,3,1,1,2,3,3
+2015,Fall,"Maniaci, Massimo",E S,D074,E S D074,4,3,0,0,0,0
+2015,Fall,"Celio, Richard",E S,D075,E S D075,6,2,0,0,15,1
+2015,Summer,"Celio, Richard",E S,D075,E S D075,5,3,0,0,3,0
+2015,Fall,"Roeder, William",E S,D076,E S D076,15,6,2,1,16,2
+2015,Summer,"Roeder, William",E S,D076A,E S D076A,8,2,2,0,1,0
+2015,Fall,"De Toro, Alicia",E S,D077X,E S D077X,2,0,0,0,0,0
+2015,Summer,"Muthyala-Kandula, Anita",E S,D077X,E S D077X,1,0,0,0,0,0
+2015,Fall,"De Toro, Alicia",E S,D077Y,E S D077Y,3,0,0,0,0,0
+2015,Summer,"Muthyala-Kandula, Anita",E S,D077Y,E S D077Y,0,0,0,0,,
+2015,Fall,"De Toro, Alicia",E S,D077Z,E S D077Z,0,0,0,0,,
+2015,Summer,"Muthyala-Kandula, Anita",E S,D077Z,E S D077Z,2,0,0,0,0,0
+2015,Fall,"Roeder, William",E S,D078,E S D078,11,0,1,1,16,0
+2015,Summer,"Roeder, William",E S,D078,E S D078,4,0,2,1,0,1
+2015,Fall,"Roeder, William",E S,D079,E S D079,21,1,4,2,16,1
+2015,Summer,"Roeder, William",E S,D079,E S D079,5,6,6,0,2,1
+2015,Fall,"Sullivan, Kristin",E S,D080Y,E S D080Y,10,3,1,0,2,0
+2015,Fall,"Sullivan, Kristin",E S,D095,E S D095,11,2,1,0,8,5
+2015,Fall,"Roeder, William",E S,D095B,E S D095B,1,0,0,0,0,0
+2015,Fall,"Roeder, William",E S,D095B,E S D095B,2,0,0,0,0,0
+2015,Fall,"Holman, Richard",E S,D71LX,E S D71LX,3,4,3,0,0,1

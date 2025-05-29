@@ -1,0 +1,417 @@
+YEAR,SEMESTER,INSTRUCTOR,SUBJECT,NUMBER,COURSE ID,A,B,C,D,F,W
+2015,Fall,"Zarghami, Fatemeh",C D,D010G,C D D010G,12,10,3,1,2,0
+2015,Fall,"Wilkie, Zana",C D,D010G,C D D010G,10,2,6,3,5,5
+2015,Fall,"Buchanan, Angela",C D,D010G,C D D010G,4,10,6,2,6,6
+2015,Fall,"Wilkie, Zana",C D,D010G,C D D010G,13,3,5,4,6,2
+2015,Fall,"Leal, Ana",C D,D010G,C D D010G,24,4,0,2,4,2
+2015,Fall,"Buchanan, Angela",C D,D010H,C D D010H,9,11,4,1,6,3
+2015,Fall,"Maleksalehi, Jila",C D,D010H,C D D010H,11,7,3,0,2,2
+2015,Fall,"Leal, Ana",C D,D010H,C D D010H,17,4,4,1,3,3
+2015,Fall,"Vargas, Nellie",C D,D012,C D D012,23,3,0,0,4,2
+2015,Fall,"Cruz, Mayra",C D,D012,C D D012,11,12,5,0,0,4
+2015,Fall,"Mckeithan, Sandra",C D,D012,C D D012,3,10,4,1,3,5
+2015,Fall,"Wilkie, Zana",C D,D050,C D D050,19,6,2,0,1,2
+2015,Fall,"Vargas, Nellie",C D,D050,C D D050,35,0,0,0,1,1
+2015,Fall,"Maleksalehi, Jila",C D,D050,C D D050,19,5,0,0,1,5
+2015,Fall,"Langfelder, Diane",C D,D051A,C D D051A,2,1,2,0,0,0
+2015,Fall,"Langfelder, Diane",C D,D051A,C D D051A,6,0,0,0,0,1
+2015,Fall,"De Motta, Phyllis",C D,D051A,C D D051A,2,7,0,0,2,0
+2015,Fall,"De Motta, Phyllis",C D,D051A,C D D051A,2,4,0,0,0,1
+2015,Fall,"Langfelder, Diane",C D,D051B,C D D051B,2,2,0,0,0,0
+2015,Fall,"Langfelder, Diane",C D,D051B,C D D051B,2,1,0,0,0,0
+2015,Fall,"De Motta, Phyllis",C D,D051B,C D D051B,0,0,0,0,,
+2015,Fall,"De Motta, Phyllis",C D,D051B,C D D051B,0,0,0,0,,
+2015,Fall,"Ebesugawa, Martina",C D,D052,C D D052,21,3,2,1,4,1
+2015,Fall,"De Motta, Phyllis",C D,D053,C D D053,16,14,1,0,4,5
+2015,Fall,"Vargas, Nellie",C D,D054,C D D054,44,7,0,0,0,2
+2015,Fall,"Vargas, Nellie",C D,D055,C D D055,54,0,0,0,0,0
+2015,Fall,"Cochran, Linda",C D,D057,C D D057,7,1,3,0,2,2
+2015,Fall,"Zarghami, Fatemeh",C D,D058,C D D058,16,8,4,0,3,1
+2015,Fall,"Qian, Ping",C D,D059G,C D D059G,18,16,0,0,1,1
+2015,Fall,"Tambe, Jayanti",C D,D063,C D D063,18,6,1,1,1,7
+2015,Fall,"Thompson, Jamel",C D,D064,C D D064,28,1,1,0,2,3
+2015,Fall,"Talamantez, Rachel",C D,D072,C D D072,15,4,1,1,0,5
+2015,Fall,"Cochran, Linda",C D,D075,C D D075,15,7,1,1,0,3
+2015,Fall,"Cruz, Mayra",C D,D077W,C D D077W,1,0,0,0,0,0
+2015,Fall,"Cruz, Mayra",C D,D077X,C D D077X,5,1,0,0,1,1
+2015,Fall,"Cruz, Mayra",C D,D077Y,C D D077Y,0,0,0,0,,
+2015,Summer,"Wilkie, Zana",C D,D010G,C D D010G,16,5,1,1,1,1
+2015,Summer,"Sun, Li",C D,D010G,C D D010G,3,4,8,0,0,5
+2015,Summer,"Ebesugawa, Martina",C D,D010G,C D D010G,15,1,3,0,2,1
+2015,Summer,"Sun, Li",C D,D010H,C D D010H,6,5,3,1,2,3
+2015,Summer,"Zarghami, Fatemeh",C D,D012,C D D012,11,4,2,5,1,3
+2015,Summer,"Vargas, Nellie",C D,D050,C D D050,34,0,0,0,1,0
+2015,Summer,"Langfelder, Diane",C D,D053,C D D053,14,9,1,1,0,2
+2015,Summer,"Langfelder, Diane",C D,D055,C D D055,12,10,4,1,2,1
+2015,Summer,"Zarghami, Fatemeh",C D,D058,C D D058,12,8,1,1,0,3
+2015,Summer,"Vargas, Nellie",C D,D064,C D D064,17,6,0,0,0,1
+2016,Spring,"Ebesugawa, Martina",C D,D010G,C D D010G,22,2,2,2,3,1
+2016,Spring,"Zarghami, Fatemeh",C D,D010G,C D D010G,15,12,4,0,1,2
+2016,Spring,"Wilkie, Zana",C D,D010G,C D D010G,12,7,4,2,5,2
+2016,Spring,"Sun, Li",C D,D010G,C D D010G,3,8,9,3,3,2
+2016,Spring,"Leal, Ana",C D,D010G,C D D010G,16,8,2,0,3,4
+2016,Spring,"Buchanan, Angela",C D,D010H,C D D010H,5,5,5,0,5,6
+2016,Spring,"Buchanan, Angela",C D,D010H,C D D010H,4,4,9,1,4,7
+2016,Spring,"Sun, Li",C D,D010H,C D D010H,4,2,2,0,3,1
+2016,Spring,"Qian, Ping",C D,D010H,C D D010H,15,7,6,1,2,1
+2016,Spring,"Leal, Ana",C D,D010H,C D D010H,26,4,1,2,1,1
+2016,Spring,"Sun, Li",C D,D012,C D D012,14,1,0,1,3,3
+2016,Spring,"Cruz, Mayra",C D,D012,C D D012,15,9,2,0,2,0
+2016,Spring,"Maleksalehi, Jila",C D,D012,C D D012,18,7,1,0,0,1
+2016,Spring,"Wilkie, Zana",C D,D050,C D D050,22,9,1,1,4,0
+2016,Spring,"Sun, Li",C D,D050,C D D050,1,13,6,1,0,2
+2016,Spring,"Vargas, Nellie",C D,D050,C D D050,35,3,0,0,1,1
+2016,Spring,"Langfelder, Diane",C D,D051A,C D D051A,4,0,3,0,0,0
+2016,Spring,"Langfelder, Diane",C D,D051A,C D D051A,2,2,1,0,0,1
+2016,Spring,"Langfelder, Diane",C D,D051B,C D D051B,3,1,0,0,0,0
+2016,Spring,"Langfelder, Diane",C D,D051B,C D D051B,2,0,0,0,0,0
+2016,Spring,"Ebesugawa, Martina",C D,D052,C D D052,27,7,0,2,2,3
+2016,Spring,"De Motta, Phyllis",C D,D053,C D D053,19,13,3,0,2,1
+2016,Spring,"Buchanan, Angela",C D,D054,C D D054,5,9,3,0,0,5
+2016,Spring,"De Motta, Phyllis",C D,D054,C D D054,22,14,0,0,2,4
+2016,Spring,"Vargas, Nellie",C D,D057,C D D057,16,0,0,0,0,1
+2016,Spring,"Vargas, Nellie",C D,D057,C D D057,16,0,0,0,0,1
+2016,Spring,"Zarghami, Fatemeh",C D,D058,C D D058,16,11,2,0,1,3
+2016,Spring,"Ferrer, Frederick",C D,D059H,C D D059H,15,1,2,0,3,2
+2016,Spring,"Tambe, Jayanti",C D,D061,C D D061,17,6,0,0,2,2
+2016,Spring,"Vargas, Nellie",C D,D064,C D D064,26,16,0,0,1,0
+2016,Spring,"Maleksalehi, Jila",C D,D068,C D D068,34,15,4,0,3,1
+2016,Spring,"Talamantez, Rachel",C D,D074,C D D074,15,1,0,0,1,0
+2016,Winter,"Langfelder, Diane",C D,D010G,C D D010G,10,6,5,0,11,2
+2016,Winter,"Vargas, Nellie",C D,D010G,C D D010G,30,7,6,0,0,2
+2016,Winter,"Sun, Li",C D,D010G,C D D010G,1,5,9,5,7,1
+2016,Winter,"Ebesugawa, Martina",C D,D010G,C D D010G,19,1,2,0,0,4
+2016,Winter,"Qian, Ping",C D,D010G,C D D010G,5,12,7,2,3,1
+2016,Winter,"Leal, Ana",C D,D010G,C D D010G,18,8,1,1,3,3
+2016,Winter,"Buchanan, Angela",C D,D010H,C D D010H,4,10,5,0,4,2
+2016,Winter,"Buchanan, Angela",C D,D010H,C D D010H,6,9,5,1,3,3
+2016,Winter,"Talamantez, Rachel",C D,D010H,C D D010H,10,4,3,0,2,3
+2016,Winter,"Mckeithan, Sandra",C D,D010H,C D D010H,4,5,3,3,3,2
+2016,Winter,"Leal, Ana",C D,D010H,C D D010H,22,9,1,1,2,1
+2016,Winter,"Zarghami, Fatemeh",C D,D012,C D D012,23,8,3,0,4,1
+2016,Winter,"Cruz, Mayra",C D,D012,C D D012,17,7,5,0,2,1
+2016,Winter,"Vargas, Nellie",C D,D012,C D D012,30,3,0,2,2,0
+2016,Winter,"Maleksalehi, Jila",C D,D012,C D D012,16,9,2,1,0,3
+2016,Winter,"Sun, Li",C D,D050,C D D050,3,9,9,1,5,8
+2016,Winter,"Sun, Li",C D,D050,C D D050,9,14,5,0,2,1
+2016,Winter,"Wilkie, Zana",C D,D050,C D D050,20,8,2,0,0,0
+2016,Winter,"De Motta, Phyllis",C D,D051A,C D D051A,0,1,3,0,0,2
+2016,Winter,"De Motta, Phyllis",C D,D051A,C D D051A,1,2,3,0,0,0
+2016,Winter,"De Motta, Phyllis",C D,D051B,C D D051B,2,1,1,0,0,0
+2016,Winter,"De Motta, Phyllis",C D,D051B,C D D051B,1,3,0,0,0,1
+2016,Winter,"Thompson, Jamel",C D,D053,C D D053,28,5,3,1,0,2
+2016,Winter,"Langfelder, Diane",C D,D054,C D D054,22,20,4,0,0,1
+2016,Winter,"Vargas, Nellie",C D,D056,C D D056,26,1,1,0,0,2
+2016,Winter,"Zarghami, Fatemeh",C D,D058,C D D058,22,4,2,1,1,7
+2016,Winter,"Ebesugawa, Martina",C D,D060,C D D060,11,2,0,0,1,3
+2016,Winter,"Tambe, Jayanti",C D,D061,C D D061,20,12,1,0,1,4
+2016,Winter,"Ferrer, Frederick",C D,D064,C D D064,27,9,1,0,0,0
+2016,Winter,"Lopez-Morgan, Christina",C D,D067,C D D067,13,10,4,1,1,6
+2016,Winter,"Maleksalehi, Jila",C D,D071,C D D071,24,4,3,0,0,2
+2016,Winter,"Talamantez, Rachel",C D,D073,C D D073,14,0,0,0,3,8
+2016,Winter,"Cruz, Mayra",C D,D077W,C D D077W,0,0,0,0,,
+2016,Fall,"Sun, Li",C D,D010G,C D D010G,7,5,10,1,3,4
+2016,Fall,"Seer, Natalie",C D,D010G,C D D010G,12,7,2,1,2,0
+2016,Fall,"Sun, Li",C D,D010G,C D D010G,3,12,6,4,2,6
+2016,Fall,"Wilkie, Zana",C D,D010G,C D D010G,9,13,3,0,8,0
+2016,Fall,"Leal, Ana",C D,D010G,C D D010G,19,5,1,0,3,6
+2016,Fall,"Sun, Li",C D,D010H,C D D010H,3,5,11,3,6,2
+2016,Fall,"Zarghami, Fatemeh",C D,D010H,C D D010H,8,6,1,1,0,1
+2016,Fall,"Leal, Ana",C D,D010H,C D D010H,19,6,1,0,1,2
+2016,Fall,"Vargas, Nellie",C D,D012,C D D012,31,2,0,0,0,0
+2016,Fall,"Maleksalehi, Jila",C D,D012,C D D012,21,3,0,0,1,1
+2016,Fall,"Kennedy, Julie",C D,D012,C D D012,24,0,0,0,1,3
+2016,Fall,"Sun, Li",C D,D050,C D D050,8,10,4,0,1,3
+2016,Fall,"Vargas, Nellie",C D,D050,C D D050,26,6,0,0,1,2
+2016,Fall,"Sun, Li",C D,D050,C D D050,3,16,6,0,0,3
+2016,Fall,"Langfelder, Diane",C D,D051A,C D D051A,3,3,2,0,1,1
+2016,Fall,"Langfelder, Diane",C D,D051A,C D D051A,2,3,0,0,0,0
+2016,Fall,"Langfelder, Diane",C D,D051B,C D D051B,1,1,1,0,0,0
+2016,Fall,"Langfelder, Diane",C D,D051B,C D D051B,0,3,0,0,0,1
+2016,Fall,"Wilkie, Zana",C D,D052,C D D052,17,6,1,0,3,4
+2016,Fall,"Lopez-Morgan, Christina",C D,D053,C D D053,11,8,2,0,4,5
+2016,Fall,"Vargas, Nellie",C D,D054,C D D054,38,9,0,0,0,0
+2016,Fall,"Sun, Li",C D,D055,C D D055,3,18,6,0,5,4
+2016,Fall,"Cruz, Mayra",C D,D057,C D D057,21,0,0,0,0,3
+2016,Fall,"Zarghami, Fatemeh",C D,D058,C D D058,17,10,4,0,2,4
+2016,Fall,"Qian, Ping",C D,D059G,C D D059G,24,10,4,0,0,2
+2016,Fall,"Roy, Jayanti",C D,D063,C D D063,24,5,1,0,0,5
+2016,Fall,"Maleksalehi, Jila",C D,D064,C D D064,32,5,1,0,1,1
+2016,Fall,"De Motta, Phyllis",C D,D072,C D D072,12,2,0,0,2,7
+2016,Fall,"Mckeithan, Sandra",C D,D075,C D D075,9,12,2,0,3,0
+2016,Fall,"Cruz, Mayra",C D,D077W,C D D077W,0,0,0,0,,
+2016,Fall,"Cruz, Mayra",C D,D077X,C D D077X,0,0,0,0,,
+2016,Fall,"Cruz, Mayra",C D,D077Y,C D D077Y,0,0,0,0,,
+2016,Summer,"Wilkie, Zana",C D,D010G,C D D010G,15,4,2,1,0,4
+2016,Summer,"Sun, Li",C D,D010G,C D D010G,1,8,7,0,0,1
+2016,Summer,"Zarghami, Fatemeh",C D,D010G,C D D010G,11,12,2,0,0,4
+2016,Summer,"Maleksalehi, Jila",C D,D010H,C D D010H,16,4,0,0,1,4
+2016,Summer,"Sun, Li",C D,D012,C D D012,26,2,0,0,1,4
+2016,Summer,"Vargas, Nellie",C D,D050,C D D050,28,1,0,0,0,1
+2016,Summer,"De Motta, Phyllis",C D,D053,C D D053,14,1,3,0,4,1
+2016,Summer,"De Motta, Phyllis",C D,D054,C D D054,16,4,0,0,1,2
+2016,Summer,"Lopez-Morgan, Christina",C D,D055,C D D055,9,6,5,1,1,1
+2016,Summer,"Maleksalehi, Jila",C D,D061,C D D061,10,3,2,0,0,2
+2016,Summer,"Vargas, Nellie",C D,D064,C D D064,17,11,1,0,0,1
+2017,Spring,"Sun, Li",C D,D010G,C D D010G,13,8,7,0,2,1
+2017,Spring,"Wilkie, Zana",C D,D010G,C D D010G,15,2,7,1,5,1
+2017,Spring,"Sun, Li",C D,D010G,C D D010G,0,9,10,0,4,2
+2017,Spring,"Qian, Ping",C D,D010G,C D D010G,9,7,6,2,1,4
+2017,Spring,"Leal, Ana",C D,D010G,C D D010G,14,7,5,1,1,1
+2017,Spring,"Seer, Natalie",C D,D010H,C D D010H,19,5,2,1,4,1
+2017,Spring,"Buchanan, Angela",C D,D010H,C D D010H,3,4,6,0,2,3
+2017,Spring,"Sun, Li",C D,D010H,C D D010H,5,3,11,0,2,2
+2017,Spring,"Leal, Ana",C D,D010H,C D D010H,23,7,3,0,2,2
+2017,Spring,"Kennedy, Julie",C D,D012,C D D012,24,2,0,0,0,2
+2017,Spring,"Cruz, Mayra",C D,D012,C D D012,12,6,1,0,4,2
+2017,Spring,"Vargas, Nellie",C D,D012,C D D012,30,3,0,2,2,2
+2017,Spring,"Maleksalehi, Jila",C D,D012,C D D012,23,5,1,0,2,4
+2017,Spring,"Sun, Li",C D,D050,C D D050,7,10,3,0,4,2
+2017,Spring,"Vargas, Nellie",C D,D050,C D D050,32,6,1,0,2,0
+2017,Spring,"Maleksalehi, Jila",C D,D050,C D D050,24,5,2,1,0,0
+2017,Spring,"Langfelder, Diane",C D,D051A,C D D051A,2,1,1,0,0,1
+2017,Spring,"Langfelder, Diane",C D,D051A,C D D051A,3,2,0,0,0,1
+2017,Spring,"Langfelder, Diane",C D,D051B,C D D051B,3,2,0,0,0,0
+2017,Spring,"Langfelder, Diane",C D,D051B,C D D051B,1,3,0,0,0,0
+2017,Spring,"Wilkie, Zana",C D,D052,C D D052,28,11,2,1,3,3
+2017,Spring,"De Motta, Phyllis",C D,D053,C D D053,11,3,3,0,3,2
+2017,Spring,"De Motta, Phyllis",C D,D054,C D D054,19,23,1,0,1,3
+2017,Spring,"Sun, Li",C D,D055,C D D055,6,5,4,0,1,4
+2017,Spring,"Roy, Jayanti",C D,D056,C D D056,15,4,0,0,4,1
+2017,Spring,"Vargas, Nellie",C D,D057,C D D057,26,0,0,0,0,0
+2017,Spring,"Zarghami, Fatemeh",C D,D058,C D D058,11,2,1,1,2,4
+2017,Spring,"Ferrer, Frederick",C D,D059H,C D D059H,20,7,1,1,4,1
+2017,Spring,"Roy, Jayanti",C D,D061,C D D061,16,8,1,0,2,1
+2017,Spring,"Vargas, Nellie",C D,D064,C D D064,35,12,1,0,0,0
+2017,Spring,"Zarghami, Fatemeh",C D,D068,C D D068,26,6,2,0,0,3
+2017,Spring,"Talamantez, Rachel",C D,D074,C D D074,12,0,0,0,0,3
+2017,Winter,"Sun, Li",C D,D010G,C D D010G,9,5,10,2,4,2
+2017,Winter,"Vargas, Nellie",C D,D010G,C D D010G,29,6,0,0,0,1
+2017,Winter,"Sun, Li",C D,D010G,C D D010G,3,10,5,2,6,2
+2017,Winter,"Qian, Ping",C D,D010G,C D D010G,14,2,8,2,1,0
+2017,Winter,"Leal, Ana",C D,D010G,C D D010G,23,3,3,0,3,2
+2017,Winter,"Langfelder, Diane",C D,D010H,C D D010H,6,9,6,4,2,4
+2017,Winter,"Buchanan, Angela",C D,D010H,C D D010H,4,6,3,0,2,4
+2017,Winter,"Maleksalehi, Jila",C D,D010H,C D D010H,15,5,1,0,5,0
+2017,Winter,"Leal, Ana",C D,D010H,C D D010H,27,2,3,0,1,3
+2017,Winter,"Seer, Natalie",C D,D012,C D D012,22,7,1,0,0,1
+2017,Winter,"Cruz, Mayra",C D,D012,C D D012,18,11,2,0,0,2
+2017,Winter,"Vargas, Nellie",C D,D012,C D D012,33,1,0,0,1,0
+2017,Winter,"Sun, Li",C D,D012,C D D012,12,10,5,0,5,4
+2017,Winter,"Sun, Li",C D,D050,C D D050,9,12,12,0,0,1
+2017,Winter,"De Motta, Phyllis",C D,D050,C D D050,7,7,3,0,1,2
+2017,Winter,"Wilkie, Zana",C D,D050,C D D050,30,0,4,0,2,1
+2017,Winter,"De Motta, Phyllis",C D,D051A,C D D051A,2,3,0,1,0,1
+2017,Winter,"De Motta, Phyllis",C D,D051A,C D D051A,2,5,0,0,0,0
+2017,Winter,"De Motta, Phyllis",C D,D051B,C D D051B,0,2,0,0,0,1
+2017,Winter,"De Motta, Phyllis",C D,D051B,C D D051B,3,1,0,0,0,0
+2017,Winter,"Thompson, Jamel",C D,D053,C D D053,20,7,2,1,0,3
+2017,Winter,"Langfelder, Diane",C D,D054,C D D054,43,6,2,1,5,0
+2017,Winter,"Vargas, Nellie",C D,D056,C D D056,30,0,1,0,1,0
+2017,Winter,"Sun, Li",C D,D057,C D D057,14,0,0,0,1,1
+2017,Winter,"Zarghami, Fatemeh",C D,D058,C D D058,21,7,2,0,2,0
+2017,Winter,"Maleksalehi, Jila",C D,D060,C D D060,6,6,0,0,1,1
+2017,Winter,"Roy, Jayanti",C D,D061,C D D061,21,2,2,0,3,2
+2017,Winter,"Ferrer, Frederick",C D,D064,C D D064,22,7,0,2,2,1
+2017,Winter,"Lopez-Morgan, Christina",C D,D067,C D D067,16,12,6,2,0,2
+2017,Winter,"Zarghami, Fatemeh",C D,D068,C D D068,21,8,2,0,1,2
+2017,Winter,"Wilkie, Zana",C D,D071,C D D071,15,3,1,1,1,6
+2017,Winter,"Talamantez, Rachel",C D,D073,C D D073,12,2,3,0,2,3
+2017,Fall,"Roy, Jayanti",C D,D010G,C D D010G,17,12,1,2,1,1
+2017,Fall,"Zarghami, Fatemeh",C D,D010G,C D D010G,14,11,3,3,4,1
+2017,Fall,"Sun, Li",C D,D010G,C D D010G,7,8,5,0,5,1
+2017,Fall,"Sun, Li",C D,D010G,C D D010G,4,7,4,3,6,1
+2017,Fall,"Leal, Ana",C D,D010G,C D D010G,21,7,2,0,1,1
+2017,Fall,"Sun, Li",C D,D010H,C D D010H,8,5,15,0,3,2
+2017,Fall,"Buchanan, Angela",C D,D010H,C D D010H,4,12,0,0,4,0
+2017,Fall,"Leal, Ana",C D,D010H,C D D010H,29,3,0,1,3,0
+2017,Fall,"Vargas, Nellie",C D,D012,C D D012,33,3,0,0,0,0
+2017,Fall,"Cruz, Mayra",C D,D012,C D D012,23,5,0,0,1,3
+2017,Fall,"Cruz, Mayra",C D,D012,C D D012,19,5,2,0,2,2
+2017,Fall,"Sun, Li",C D,D050,C D D050,2,8,8,1,4,2
+2017,Fall,"Vargas, Nellie",C D,D050,C D D050,30,4,0,0,1,0
+2017,Fall,"De Motta, Phyllis",C D,D050,C D D050,24,7,2,0,0,0
+2017,Fall,"Langfelder, Diane",C D,D051A,C D D051A,2,1,1,0,0,2
+2017,Fall,"Langfelder, Diane",C D,D051A,C D D051A,3,3,1,0,0,0
+2017,Fall,"Langfelder, Diane",C D,D051B,C D D051B,2,1,0,0,1,0
+2017,Fall,"Langfelder, Diane",C D,D051B,C D D051B,3,1,0,0,0,0
+2017,Fall,"Wilkie, Zana",C D,D052,C D D052,23,6,4,0,1,1
+2017,Fall,"De Motta, Phyllis",C D,D053,C D D053,13,6,3,2,3,3
+2017,Fall,"Vargas, Nellie",C D,D054,C D D054,31,10,0,1,0,0
+2017,Fall,"Sun, Li",C D,D055,C D D055,6,16,5,0,5,2
+2017,Fall,"Zarghami, Fatemeh",C D,D058,C D D058,16,1,1,1,2,4
+2017,Fall,"Roy, Jayanti",C D,D059G,C D D059G,33,1,0,0,0,2
+2017,Fall,"Roy, Jayanti",C D,D063,C D D063,16,5,0,0,4,4
+2017,Fall,"Qian, Ping",C D,D064,C D D064,21,20,4,0,0,0
+2017,Fall,"Maleksalehi, Jila",C D,D072,C D D072,8,3,4,1,0,1
+2017,Fall,"Talamantez, Rachel",C D,D075,C D D075,20,2,0,0,0,4
+2017,Fall,"Cruz, Mayra",C D,D077W,C D D077W,0,0,0,0,,
+2017,Fall,"Cruz, Mayra",C D,D077X,C D D077X,0,0,0,0,,
+2017,Fall,"Cruz, Mayra",C D,D077Y,C D D077Y,0,0,0,0,,
+2017,Summer,"Kennedy, Julie",C D,D010G,C D D010G,17,2,0,0,0,1
+2017,Summer,"Sun, Li",C D,D010G,C D D010G,2,5,4,0,1,0
+2017,Summer,"Zarghami, Fatemeh",C D,D010G,C D D010G,14,12,3,0,0,2
+2017,Summer,"Langfelder, Diane",C D,D010H,C D D010H,5,4,1,0,1,2
+2017,Summer,"Sun, Li",C D,D012,C D D012,13,9,1,0,1,1
+2017,Summer,"Vargas, Nellie",C D,D050,C D D050,23,3,0,0,0,0
+2017,Summer,"Kennedy, Julie",C D,D053,C D D053,25,3,1,0,1,2
+2017,Summer,"Maleksalehi, Jila",C D,D054,C D D054,15,11,1,0,1,5
+2017,Summer,"Zarghami, Fatemeh",C D,D060,C D D060,4,3,0,0,1,3
+2017,Summer,"Vargas, Nellie",C D,D064,C D D064,15,8,1,2,2,1
+2018,Spring,"Wilkie, Zana",C D,D010G,C D D010G,5,8,2,0,7,7
+2018,Spring,"Langfelder, Diane",C D,D010G,C D D010G,10,4,6,1,6,4
+2018,Spring,"Sun, Li",C D,D010G,C D D010G,8,8,4,0,2,0
+2018,Spring,"Sun, Li",C D,D010G,C D D010G,3,7,6,0,4,2
+2018,Spring,"Leal, Ana",C D,D010G,C D D010G,22,5,1,1,2,3
+2018,Spring,"De Motta, Phyllis",C D,D010H,C D D010H,12,6,6,0,4,1
+2018,Spring,"Ferrer, Frederick",C D,D010H,C D D010H,12,7,2,0,3,1
+2018,Spring,"Leal, Ana",C D,D010H,C D D010H,28,2,1,0,4,0
+2018,Spring,"Cruz, Mayra",C D,D012,C D D012,13,2,1,0,2,2
+2018,Spring,"Cruz, Mayra",C D,D012,C D D012,22,3,0,0,1,3
+2018,Spring,"Vargas, Nellie",C D,D012,C D D012,20,2,0,0,0,2
+2018,Spring,"Roy, Jayanti",C D,D012,C D D012,28,4,1,0,2,1
+2018,Spring,"Vargas, Nellie",C D,D050,C D D050,32,4,0,0,3,4
+2018,Spring,"Sun, Li",C D,D050,C D D050,4,10,6,0,0,3
+2018,Spring,"Roy, Jayanti",C D,D051A,C D D051A,6,6,1,0,0,1
+2018,Spring,"Roy, Jayanti",C D,D051A,C D D051A,3,1,0,0,0,0
+2018,Spring,"Roy, Jayanti",C D,D051B,C D D051B,3,2,0,0,0,0
+2018,Spring,"Roy, Jayanti",C D,D051B,C D D051B,4,0,1,0,0,0
+2018,Spring,"Wilkie, Zana",C D,D052,C D D052,23,13,2,0,2,2
+2018,Spring,"De Motta, Phyllis",C D,D053,C D D053,9,4,3,2,6,4
+2018,Spring,"Langfelder, Diane",C D,D054,C D D054,27,14,0,1,2,3
+2018,Spring,"Sun, Li",C D,D055,C D D055,4,11,4,0,1,2
+2018,Spring,"Sun, Li",C D,D057,C D D057,7,0,0,0,0,0
+2018,Spring,"Zarghami, Fatemeh",C D,D058,C D D058,19,5,2,1,1,6
+2018,Spring,"Roy, Jayanti",C D,D059H,C D D059H,29,0,1,0,0,1
+2018,Spring,"Kennedy, Julie",C D,D061,C D D061,29,3,0,0,0,2
+2018,Spring,"Vargas, Nellie",C D,D064,C D D064,38,4,0,0,1,2
+2018,Spring,"Vargas, Nellie",C D,D067,C D D067,45,0,0,0,0,0
+2018,Spring,"Zarghami, Fatemeh",C D,D068,C D D068,22,7,5,1,2,5
+2018,Spring,"Roy, Jayanti",C D,D103W,C D D103W,46,0,0,0,0,0
+2018,Winter,"Roy, Jayanti",C D,D010G,C D D010G,27,6,2,0,2,1
+2018,Winter,"Vargas, Nellie",C D,D010G,C D D010G,26,7,0,1,1,0
+2018,Winter,"Sun, Li",C D,D010G,C D D010G,5,5,4,1,6,5
+2018,Winter,"Roy, Jayanti",C D,D010G,C D D010G,22,5,3,2,1,0
+2018,Winter,"Leal, Ana",C D,D010G,C D D010G,21,5,2,1,4,2
+2018,Winter,"Sun, Li",C D,D010H,C D D010H,5,8,6,1,2,4
+2018,Winter,"Langfelder, Diane",C D,D010H,C D D010H,6,2,5,0,4,0
+2018,Winter,"Leal, Ana",C D,D010H,C D D010H,29,4,2,0,2,1
+2018,Winter,"Cruz, Mayra",C D,D012,C D D012,11,2,3,0,1,5
+2018,Winter,"Cruz, Mayra",C D,D012,C D D012,17,5,2,0,0,4
+2018,Winter,"Vargas, Nellie",C D,D012,C D D012,24,4,0,0,2,0
+2018,Winter,"Qian, Ping",C D,D012,C D D012,23,9,2,0,3,0
+2018,Winter,"Sun, Li",C D,D050,C D D050,4,21,6,1,0,5
+2018,Winter,"Roy, Jayanti",C D,D050,C D D050,19,1,0,0,0,0
+2018,Winter,"Sun, Li",C D,D050,C D D050,5,8,7,0,1,0
+2018,Winter,"De Motta, Phyllis",C D,D051A,C D D051A,2,6,0,0,0,1
+2018,Winter,"De Motta, Phyllis",C D,D051A,C D D051A,1,5,0,0,0,0
+2018,Winter,"De Motta, Phyllis",C D,D051B,C D D051B,1,0,0,0,0,0
+2018,Winter,"De Motta, Phyllis",C D,D051B,C D D051B,0,3,0,0,0,0
+2018,Winter,"Thompson, Jamel",C D,D053,C D D053,18,2,0,0,1,0
+2018,Winter,"Zarghami, Fatemeh",C D,D054,C D D054,35,6,2,1,0,2
+2018,Winter,"Vargas, Nellie",C D,D056,C D D056,16,3,0,0,2,1
+2018,Winter,"Sun, Li",C D,D057,C D D057,16,5,1,0,0,1
+2018,Winter,"Zarghami, Fatemeh",C D,D058,C D D058,17,4,2,0,0,1
+2018,Winter,"Maleksalehi, Jila",C D,D060,C D D060,10,8,0,0,0,3
+2018,Winter,"Langfelder, Diane",C D,D063,C D D063,30,5,3,0,0,1
+2018,Winter,"Ferrer, Frederick",C D,D064,C D D064,26,6,1,0,2,1
+2018,Winter,"Vargas, Nellie",C D,D067,C D D067,39,0,0,0,1,0
+2018,Winter,"Roy, Jayanti",C D,D068,C D D068,39,2,1,0,0,0
+2018,Winter,"Talamantez, Rachel",C D,D073,C D D073,11,5,0,1,1,3
+2018,Fall,"Zarghami, Fatemeh",C D,D010G,C D D010G,13,10,4,0,5,0
+2018,Fall,"Sun, Li",C D,D010G,C D D010G,11,13,4,2,0,2
+2018,Fall,"Sun, Li",C D,D010G,C D D010G,6,8,10,0,3,0
+2018,Fall,"Sun, Li",C D,D010G,C D D010G,12,8,2,0,1,0
+2018,Fall,"Leal, Ana",C D,D010G,C D D010G,18,5,2,0,1,2
+2018,Fall,"Langfelder, Diane",C D,D010H,C D D010H,8,7,9,3,4,1
+2018,Fall,"Leal, Ana",C D,D010H,C D D010H,19,2,2,2,1,1
+2018,Fall,"Vargas, Nellie",C D,D012,C D D012,33,0,0,0,0,1
+2018,Fall,"Sun, Li",C D,D012,C D D012,19,4,0,0,2,2
+2018,Fall,"Roy, Jayanti",C D,D012,C D D012,27,3,1,0,1,0
+2018,Fall,"Vargas, Nellie",C D,D050,C D D050,26,6,1,1,1,0
+2018,Fall,"De Motta, Phyllis",C D,D050,C D D050,22,3,3,0,0,1
+2018,Fall,"De Motta, Phyllis",C D,D051A,C D D051A,1,3,2,0,0,0
+2018,Fall,"De Motta, Phyllis",C D,D051A,C D D051A,4,3,1,0,0,1
+2018,Fall,"Roy, Jayanti",C D,D051A,C D D051A,3,7,0,0,0,0
+2018,Fall,"Roy, Jayanti",C D,D051A,C D D051A,4,6,1,0,0,0
+2018,Fall,"De Motta, Phyllis",C D,D051B,C D D051B,0,1,0,0,0,0
+2018,Fall,"De Motta, Phyllis",C D,D051B,C D D051B,0,0,0,0,0,0
+2018,Fall,"Wilkie, Zana",C D,D052,C D D052,23,4,3,0,0,1
+2018,Fall,"Langfelder, Diane",C D,D053,C D D053,16,11,2,1,0,3
+2018,Fall,"Vargas, Nellie",C D,D054,C D D054,30,5,1,0,2,4
+2018,Fall,"Kennedy, Julie",C D,D055,C D D055,38,0,1,0,0,3
+2018,Fall,"Sun, Li",C D,D057,C D D057,16,0,0,0,1,1
+2018,Fall,"Zarghami, Fatemeh",C D,D058,C D D058,15,8,0,0,1,4
+2018,Fall,"Roy, Jayanti",C D,D059G,C D D059G,27,2,2,0,1,4
+2018,Fall,"Roy, Jayanti",C D,D063,C D D063,30,2,2,1,2,1
+2018,Fall,"Ferrer, Frederick",C D,D064,C D D064,29,7,2,1,0,0
+2018,Fall,"Talamantez, Rachel",C D,D072,C D D072,23,0,0,1,1,5
+2018,Fall,"Talamantez, Rachel",C D,D073,C D D073,19,2,2,0,1,3
+2018,Summer,"Kennedy, Julie",C D,D010G,C D D010G,20,1,0,0,3,0
+2018,Summer,"Sun, Li",C D,D010G,C D D010G,4,12,6,2,2,1
+2018,Summer,"Langfelder, Diane",C D,D010H,C D D010H,1,8,6,0,0,0
+2018,Summer,"Vargas, Nellie",C D,D050,C D D050,24,3,0,0,1,1
+2018,Summer,"Langfelder, Diane",C D,D053,C D D053,19,11,2,0,0,0
+2018,Summer,"De Motta, Phyllis",C D,D054,C D D054,17,10,5,1,1,2
+2018,Summer,"Zarghami, Fatemeh",C D,D060,C D D060,7,4,0,0,0,1
+2018,Summer,"Vargas, Nellie",C D,D064,C D D064,19,9,1,1,0,0
+2019,Winter,"Kennedy, Julie",C D,D061,C D D061,42,1,0,0,0,1
+2019,Spring,"Vargas, Nellie",C D,D054,C D D054,41,1,0,0,0,1
+2019,Spring,"Roy, Jayanti",C D,D103W,C D D103W,38,0,0,0,0,1
+2019,Winter,"Roy, Jayanti",C D,D067,C D D067,38,2,0,0,1,2
+2019,Winter,"Vargas, Nellie",C D,D012,C D D012,35,1,0,0,0,0
+2019,Winter,"Roy, Jayanti",C D,D068,C D D068,35,5,0,0,2,2
+2019,Spring,"Roy, Jayanti",C D,D012,C D D012,33,1,3,0,1,1
+2019,Spring,"De Motta, Phyllis",C D,D050,C D D050,32,3,1,0,1,1
+2019,Winter,"Zarghami, Fatemeh",C D,D054,C D D054,31,16,2,0,0,1
+2019,Spring,"Vargas, Nellie",C D,D055,C D D055,30,4,0,0,1,3
+2019,Spring,"Roy, Jayanti",C D,D059H,C D D059H,30,3,0,0,0,1
+2019,Winter,"Roy, Jayanti",C D,D060,C D D060,30,0,0,0,1,1
+2019,Spring,"Vargas, Nellie",C D,D050,C D D050,29,12,0,0,0,1
+2019,Winter,"Kennedy, Julie",C D,D012,C D D012,29,0,1,0,0,3
+2019,Winter,"Ferrer, Frederick",C D,D064,C D D064,29,1,0,0,2,2
+2019,Spring,"Wilkie, Zana",C D,D052,C D D052,28,9,3,0,1,3
+2019,Winter,"Talamantez, Rachel",C D,D010H,C D D010H,27,0,0,0,0,1
+2019,Spring,"Leal, Ana",C D,D010G,C D D010G,24,4,1,2,0,1
+2019,Winter,"Roy, Jayanti",C D,D010G,C D D010G,24,2,4,0,5,1
+2019,Winter,"Vargas, Nellie",C D,D010G,C D D010G,23,6,0,0,0,1
+2019,Winter,"Leal, Ana",C D,D010H,C D D010H,23,5,1,1,0,1
+2019,Winter,"Maleksalehi, Jila",C D,D050,C D D050,22,3,1,0,1,3
+2019,Winter,"De Motta, Phyllis",C D,D053,C D D053,22,4,3,0,1,0
+2019,Spring,"Leal, Ana",C D,D010H,C D D010H,19,4,1,1,5,2
+2019,Winter,"Vargas, Nellie",C D,D056,C D D056,19,2,1,0,0,1
+2019,Spring,"Leal, Ana",C D,D010G,C D D010G,18,3,0,1,2,4
+2019,Winter,"Leal, Ana",C D,D010G,C D D010G,18,3,0,2,2,4
+2019,Winter,"Talamantez, Rachel",C D,D074,C D D074,17,0,0,0,0,0
+2019,Winter,"Wilkie, Zana",C D,D012,C D D012,16,7,0,0,2,1
+2019,Spring,"Wilkie, Zana",C D,D010G,C D D010G,15,2,5,1,11,1
+2019,Spring,"Maleksalehi, Jila",C D,D010G,C D D010G,15,1,3,0,2,0
+2019,Spring,"Maleksalehi, Jila",C D,D012,C D D012,15,6,2,0,0,3
+2019,Spring,"Ferrer, Frederick",C D,D010H,C D D010H,14,1,1,0,4,2
+2019,Spring,"Sun, Li",C D,D057,C D D057,14,2,1,0,0,2
+2019,Spring,"Vargas, Nellie",C D,D064,C D D064,14,19,3,0,0,1
+2019,Spring,"Kennedy, Julie",C D,D061,C D D061,13,2,0,0,0,1
+2019,Winter,"Sun, Li",C D,D010G,C D D010G,13,7,2,0,1,0
+2019,Spring,"Zarghami, Fatemeh",C D,D058,C D D058,12,5,8,0,1,4
+2019,Winter,"Sun, Li",C D,D050,C D D050,12,15,9,1,0,0
+2019,Winter,"Zarghami, Fatemeh",C D,D058,C D D058,12,12,1,0,1,3
+2019,Spring,"Zarghami, Fatemeh",C D,D068,C D D068,11,6,2,0,1,2
+2019,Winter,"Wilkie, Zana",C D,D012,C D D012,11,3,4,0,1,2
+2019,Spring,"Lopez-Morgan, Christina",C D,D053,C D D053,10,3,7,1,4,2
+2019,Spring,"Talamantez, Rachel",C D,D075,C D D075,8,5,4,1,1,3
+2019,Winter,"Sun, Li",C D,D010G,C D D010G,7,5,4,2,3,4
+2019,Winter,"Roy, Jayanti",C D,D051A,C D D051A,7,4,0,0,0,1
+2019,Spring,"Sun, Li",C D,D010H,C D D010H,5,11,7,0,6,0
+2019,Spring,"De Motta, Phyllis",C D,D051B,C D D051B,5,0,0,0,0,0
+2019,Spring,"Roy, Jayanti",C D,D051A,C D D051A,4,5,0,0,0,1
+2019,Spring,"Roy, Jayanti",C D,D051A,C D D051A,4,2,0,0,0,0
+2019,Spring,"Roy, Jayanti",C D,D051B,C D D051B,4,4,0,0,0,0
+2019,Winter,"Roy, Jayanti",C D,D051A,C D D051A,4,3,0,0,1,1
+2019,Winter,"Langfelder, Diane",C D,D051B,C D D051B,3,1,0,0,1,0
+2019,Spring,"De Motta, Phyllis",C D,D051A,C D D051A,2,4,1,0,0,0
+2019,Winter,"Langfelder, Diane",C D,D051A,C D D051A,2,1,0,0,0,2
+2019,Winter,"Langfelder, Diane",C D,D051A,C D D051A,2,1,0,0,0,1
+2019,Winter,"Langfelder, Diane",C D,D051B,C D D051B,1,3,0,0,0,1
+2019,Spring,"De Motta, Phyllis",C D,D051A,C D D051A,0,4,1,0,0,1
+2019,Spring,"De Motta, Phyllis",C D,D051B,C D D051B,0,1,0,0,0,0
+2019,Spring,"Staff, M",C D,D057,C D D057,0,0,0,0,,

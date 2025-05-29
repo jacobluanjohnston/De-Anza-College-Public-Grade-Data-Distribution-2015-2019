@@ -1,0 +1,333 @@
+YEAR,SEMESTER,INSTRUCTOR,SUBJECT,NUMBER,COURSE ID,A,B,C,D,F,W
+2015,Fall,"Roeder, William",ESCI,D001,ESCI D001,55,8,4,0,1,1
+2015,Fall,"De Toro, Alicia",ESCI,D001,ESCI D001,30,2,4,3,6,1
+2015,Fall,"Srinivasan, Neela",ESCI,D001,ESCI D001,23,9,1,0,2,4
+2015,Fall,"Alderkamp, Anne",ESCI,D001,ESCI D001,28,6,1,3,1,6
+2015,Fall,"Williams, Caitlin",ESCI,D001,ESCI D001,28,2,2,0,4,1
+2015,Fall,"Nakase, Dana",ESCI,D001,ESCI D001,30,8,3,0,1,2
+2015,Fall,"Marquez, Ada",ESCI,D001,ESCI D001,13,7,2,3,0,5
+2015,Fall,"Frisbee, Adrienne",ESCI,D001,ESCI D001,20,11,2,0,2,2
+2015,Fall,"Williams, Caitlin",ESCI,D001,ESCI D001,21,0,2,2,5,1
+2015,Fall,"Sanders, Jana",ESCI,D001,ESCI D001,13,11,3,1,1,7
+2015,Fall,"Wenck-Reilly, Brennan",ESCI,D001L,ESCI D001L,7,4,0,0,0,2
+2015,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,23,4,0,0,1,1
+2015,Fall,"Wenck-Reilly, Brennan",ESCI,D001L,ESCI D001L,4,1,0,0,0,0
+2015,Fall,"De Toro, Alicia",ESCI,D001L,ESCI D001L,26,2,1,0,4,2
+2015,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,13,5,0,0,0,1
+2015,Fall,"Phillips, Ryan",ESCI,D001L,ESCI D001L,29,4,0,0,1,0
+2015,Fall,"Zhu, He",ESCI,D001L,ESCI D001L,9,5,2,0,1,0
+2015,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,25,1,0,0,0,1
+2015,Fall,"Martin, Miriam",ESCI,D019,ESCI D019,11,5,1,1,0,3
+2015,Fall,"Martinez, Dianna",ESCI,D019,ESCI D019,35,2,2,0,1,0
+2015,Fall,"Martinez, Dianna",ESCI,D019,ESCI D019,26,4,0,0,0,2
+2015,Fall,"Poffenroth, Mary",ESCI,D019,ESCI D019,3,2,5,0,6,5
+2015,Fall,"Poffenroth, Mary",ESCI,D019,ESCI D019,3,3,2,0,3,2
+2015,Fall,"Phillips, Ryan",ESCI,D020,ESCI D020,11,6,5,0,1,4
+2015,Fall,"Srinivasan, Neela",ESCI,D054,ESCI D054,5,5,0,0,0,1
+2015,Fall,"Phillips, Ryan",ESCI,D082,ESCI D082,7,1,1,0,0,1
+2015,Fall,"Phillips, Ryan",ESCI,D092,ESCI D092,14,0,0,0,1,0
+2015,Summer,"McCluskey, Joshua",ESCI,D001,ESCI D001,15,9,4,0,1,0
+2015,Summer,"Frisbee, Adrienne",ESCI,D001,ESCI D001,8,2,2,0,0,0
+2015,Summer,"Sanders, Jana",ESCI,D001,ESCI D001,18,6,0,1,0,2
+2015,Summer,"Sanders, Jana",ESCI,D001,ESCI D001,12,4,2,0,3,8
+2015,Summer,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,25,6,0,0,0,1
+2015,Summer,"Phillips, Ryan",ESCI,D001L,ESCI D001L,24,2,0,0,3,1
+2015,Summer,"Frisbee, Adrienne",ESCI,D019,ESCI D019,11,2,0,0,0,1
+2015,Summer,"Phillips, Ryan",ESCI,D087,ESCI D087,6,0,0,0,0,0
+2015,Summer,"Phillips, Ryan",ESCI,D092,ESCI D092,12,1,0,0,0,1
+2016,Spring,"De Toro, Alicia",ESCI,D001,ESCI D001,36,11,1,2,5,1
+2016,Spring,"Frisbee, Adrienne",ESCI,D001,ESCI D001,35,12,2,0,1,0
+2016,Spring,"Nakase, Dana",ESCI,D001,ESCI D001,48,4,0,0,0,0
+2016,Spring,"Martin, Miriam",ESCI,D001,ESCI D001,24,5,5,1,0,5
+2016,Spring,"Martin, Miriam",ESCI,D001,ESCI D001,19,4,10,4,1,2
+2016,Spring,"Bordignon, Guido",ESCI,D001,ESCI D001,14,6,10,0,5,3
+2016,Spring,"Marquez, Ada",ESCI,D001,ESCI D001,13,10,3,3,1,4
+2016,Spring,"Sanders, Jana",ESCI,D001,ESCI D001,13,7,7,0,1,5
+2016,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,1,0,0,1,1
+2016,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,38,0,0,0,0,1
+2016,Spring,"De Toro, Alicia",ESCI,D001L,ESCI D001L,31,6,3,1,1,0
+2016,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,30,0,0,0,0,3
+2016,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,27,2,0,0,3,1
+2016,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,29,0,0,0,2,1
+2016,Spring,"Voelkel, Sharene",ESCI,D019,ESCI D019,28,0,1,0,0,1
+2016,Spring,"Voelkel, Sharene",ESCI,D019,ESCI D019,31,3,0,0,0,0
+2016,Spring,"Poffenroth, Mary",ESCI,D019,ESCI D019,15,5,2,0,0,0
+2016,Spring,"Poffenroth, Mary",ESCI,D019,ESCI D019,17,4,2,0,2,2
+2016,Spring,"Phillips, Ryan",ESCI,D030,ESCI D030,8,4,6,0,3,3
+2016,Spring,"Srinivasan, Neela",ESCI,D055,ESCI D055,6,2,5,0,0,1
+2016,Spring,"Andonian, Krikor",ESCI,D056,ESCI D056,9,5,1,0,0,0
+2016,Spring,"Srinivasan, Neela",ESCI,D058,ESCI D058,2,3,1,0,0,1
+2016,Spring,"Hamidi, Ridha",ESCI,D061,ESCI D061,10,5,0,1,3,2
+2016,Spring,"De Toro, Alicia",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2016,Spring,"De Toro, Alicia",ESCI,D077X,ESCI D077X,1,0,0,0,0,0
+2016,Spring,"De Toro, Alicia",ESCI,D077Y,ESCI D077Y,1,0,0,0,0,0
+2016,Spring,"Phillips, Ryan",ESCI,D092,ESCI D092,13,0,0,0,0,0
+2016,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,25,4,6,5,3,3
+2016,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,23,11,1,2,3,2
+2016,Winter,"Nakase, Dana",ESCI,D001,ESCI D001,39,6,0,2,0,3
+2016,Winter,"Nakase, Dana",ESCI,D001,ESCI D001,38,6,5,0,1,1
+2016,Winter,"Sullivan, Kristin",ESCI,D001,ESCI D001,28,9,1,1,1,1
+2016,Winter,"Sullivan, Kristin",ESCI,D001,ESCI D001,2,0,0,0,0,0
+2016,Winter,"Andonian, Krikor",ESCI,D001,ESCI D001,15,10,5,0,3,4
+2016,Winter,"Srinivasan, Neela",ESCI,D001,ESCI D001,15,17,3,0,3,2
+2016,Winter,"De Toro, Alicia",ESCI,D001,ESCI D001,36,10,1,1,3,1
+2016,Winter,"Marquez, Ada",ESCI,D001,ESCI D001,16,10,4,0,0,5
+2016,Winter,"Sanders, Jana",ESCI,D001,ESCI D001,12,9,7,1,5,6
+2016,Winter,"De Toro, Alicia",ESCI,D001L,ESCI D001L,16,6,2,0,7,2
+2016,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,15,0,0,0,1,1
+2016,Winter,"Wenck-Reilly, Brennan",ESCI,D001L,ESCI D001L,10,3,3,0,1,1
+2016,Winter,"Staudinger, Jeffery",ESCI,D001L,ESCI D001L,14,8,5,0,0,1
+2016,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,24,0,0,0,0,0
+2016,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,20,0,0,0,0,1
+2016,Winter,"Phillips, Ryan",ESCI,D001L,ESCI D001L,29,2,0,0,1,1
+2016,Winter,"Wenck-Reilly, Brennan",ESCI,D001L,ESCI D001L,17,6,5,0,2,1
+2016,Winter,"Voelkel, Sharene",ESCI,D019,ESCI D019,34,0,0,0,0,0
+2016,Winter,"Voelkel, Sharene",ESCI,D019,ESCI D019,26,0,0,0,0,0
+2016,Winter,"Poffenroth, Mary",ESCI,D019,ESCI D019,14,4,2,0,5,2
+2016,Winter,"Poffenroth, Mary",ESCI,D019,ESCI D019,13,3,3,1,7,2
+2016,Winter,"Phillips, Ryan",ESCI,D021,ESCI D021,8,3,5,0,0,0
+2016,Winter,"Phillips, Ryan",ESCI,D050,ESCI D050,13,7,5,1,0,0
+2016,Winter,"De Toro, Alicia",ESCI,D077X,ESCI D077X,1,0,0,0,0,0
+2016,Winter,"Phillips, Ryan",ESCI,D090,ESCI D090,20,0,0,0,0,0
+2016,Fall,"Greene, Valerie",ESCI,D001,ESCI D001,16,11,10,3,3,3
+2016,Fall,"Greene, Valerie",ESCI,D001,ESCI D001,11,10,6,1,2,6
+2016,Fall,"Ratsirarson, Helian",ESCI,D001,ESCI D001,10,10,7,1,2,4
+2016,Fall,"Frisbee, Adrienne",ESCI,D001,ESCI D001,39,7,1,2,0,0
+2016,Fall,"Frisbee, Adrienne",ESCI,D001,ESCI D001,30,14,0,3,2,0
+2016,Fall,"Alderkamp, Anne",ESCI,D001,ESCI D001,26,7,0,0,2,2
+2016,Fall,"Sanders, Jana",ESCI,D001,ESCI D001,7,8,4,3,2,7
+2016,Fall,"Bijoor, Neeta",ESCI,D001,ESCI D001,17,7,2,0,0,0
+2016,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,30,0,0,0,2,0
+2016,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,22,0,1,0,2,4
+2016,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,25,0,0,0,0,1
+2016,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,0,0,0,2,0
+2016,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,0,0,0,0,2
+2016,Fall,"Greene, Valerie",ESCI,D019,ESCI D019,5,1,3,1,0,3
+2016,Fall,"Voelkel, Sharene",ESCI,D019,ESCI D019,50,0,0,0,0,0
+2016,Fall,"Poffenroth, Mary",ESCI,D019,ESCI D019,10,4,4,0,2,2
+2016,Fall,"Poffenroth, Mary",ESCI,D019,ESCI D019,5,3,0,3,0,1
+2016,Fall,"Phillips, Ryan",ESCI,D020,ESCI D020,16,7,4,2,2,1
+2016,Fall,"Srinivasan, Neela",ESCI,D054,ESCI D054,3,1,3,1,3,1
+2016,Fall,"Hamidi, Ridha",ESCI,D061,ESCI D061,2,3,0,1,1,2
+2016,Fall,"Muthyala-Kandula, Anita",ESCI,D077,ESCI D077,0,0,0,0,,
+2016,Fall,"Muthyala-Kandula, Anita",ESCI,D077X,ESCI D077X,0,0,0,0,,
+2016,Fall,"Muthyala-Kandula, Anita",ESCI,D077Y,ESCI D077Y,0,0,0,0,,
+2016,Fall,"Phillips, Ryan",ESCI,D082,ESCI D082,8,1,0,0,0,0
+2016,Fall,"Srinivasan, Neela",ESCI,D087X,ESCI D087X,4,4,1,1,2,1
+2016,Fall,"Phillips, Ryan",ESCI,D092,ESCI D092,12,0,0,0,0,0
+2016,Summer,"Nakase, Dana",ESCI,D001,ESCI D001,38,1,2,0,0,0
+2016,Summer,"Nakase, Dana",ESCI,D001,ESCI D001,20,2,3,0,1,2
+2016,Summer,"Frisbee, Adrienne",ESCI,D001,ESCI D001,7,2,0,0,2,0
+2016,Summer,"Sanders, Jana",ESCI,D001,ESCI D001,13,5,7,1,1,7
+2016,Summer,"Sanders, Jana",ESCI,D001,ESCI D001,17,2,2,0,1,6
+2016,Summer,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,29,0,0,0,0,3
+2016,Summer,"Phillips, Ryan",ESCI,D001L,ESCI D001L,24,3,0,0,0,0
+2016,Summer,"Voelkel, Sharene",ESCI,D019,ESCI D019,17,0,0,0,0,1
+2016,Summer,"Phillips, Ryan",ESCI,D090,ESCI D090,16,1,0,0,0,0
+2017,Spring,"Frisbee, Adrienne",ESCI,D001,ESCI D001,17,13,3,5,3,1
+2017,Spring,"Frisbee, Adrienne",ESCI,D001,ESCI D001,31,10,2,1,0,1
+2017,Spring,"Ratsirarson, Helian",ESCI,D001,ESCI D001,11,14,4,0,5,6
+2017,Spring,"Ratsirarson, Helian",ESCI,D001,ESCI D001,18,9,2,0,6,5
+2017,Spring,"Ratsirarson, Helian",ESCI,D001,ESCI D001,17,6,4,1,0,2
+2017,Spring,"Phillips, Ryan",ESCI,D001,ESCI D001,27,11,1,1,2,0
+2017,Spring,"Daniel, Ann",ESCI,D001,ESCI D001,4,10,10,7,2,3
+2017,Spring,"Sanders, Jana",ESCI,D001,ESCI D001,22,8,7,5,2,0
+2017,Spring,"Poffenroth, Mary",ESCI,D001,ESCI D001,19,2,1,4,5,7
+2017,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,0,0,0,2,1
+2017,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,31,0,1,0,1,1
+2017,Spring,"Pal, Gayatri",ESCI,D001L,ESCI D001L,16,0,0,0,1,1
+2017,Spring,"Pal, Gayatri",ESCI,D001L,ESCI D001L,22,1,0,0,0,1
+2017,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,1,0,0,0,3
+2017,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,1,0,0,0,1
+2017,Spring,"Phillips, Ryan",ESCI,D001L,ESCI D001L,21,6,2,0,1,1
+2017,Spring,"Greene, Valerie",ESCI,D019,ESCI D019,8,9,2,1,1,1
+2017,Spring,"Greene, Valerie",ESCI,D019,ESCI D019,7,6,3,1,1,1
+2017,Spring,"Greene, Valerie",ESCI,D030,ESCI D030,12,14,2,0,1,1
+2017,Spring,"Srinivasan, Neela",ESCI,D058,ESCI D058,3,3,1,0,1,1
+2017,Spring,"Muthyala-Kandula, Anita",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2017,Spring,"Phillips, Ryan",ESCI,D092,ESCI D092,17,0,0,0,0,0
+2017,Winter,"Greene, Valerie",ESCI,D001,ESCI D001,16,20,2,3,1,0
+2017,Winter,"Greene, Valerie",ESCI,D001,ESCI D001,13,8,13,2,4,3
+2017,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,13,8,7,7,3,1
+2017,Winter,"Sullivan, Kristin",ESCI,D001,ESCI D001,39,7,3,0,1,1
+2017,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,23,16,1,0,1,4
+2017,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,16,10,2,5,0,4
+2017,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,6,8,9,0,0,5
+2017,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,37,7,0,1,0,0
+2017,Winter,"Sanders, Jana",ESCI,D001,ESCI D001,12,4,2,5,5,10
+2017,Winter,"Poffenroth, Mary",ESCI,D001,ESCI D001,11,2,6,0,6,11
+2017,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,14,1,0,0,2,0
+2017,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,12,0,0,0,1,0
+2017,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,24,0,0,0,2,2
+2017,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,34,0,0,0,0,2
+2017,Winter,"Frisbee, Adrienne",ESCI,D001L,ESCI D001L,22,2,0,1,1,2
+2017,Winter,"Frisbee, Adrienne",ESCI,D001L,ESCI D001L,25,1,0,0,4,1
+2017,Winter,"Phillips, Ryan",ESCI,D001L,ESCI D001L,25,3,1,0,0,2
+2017,Winter,"Greene, Valerie",ESCI,D019,ESCI D019,8,10,3,0,0,1
+2017,Winter,"Greene, Valerie",ESCI,D019,ESCI D019,5,8,6,0,0,0
+2017,Winter,"Voelkel, Sharene",ESCI,D019,ESCI D019,57,0,0,0,0,0
+2017,Winter,"Chiarappa-Zucca, Marina",ESCI,D057,ESCI D057,6,4,0,0,2,3
+2017,Winter,"Muthyala-Kandula, Anita",ESCI,D077X,ESCI D077X,2,0,0,0,0,0
+2017,Winter,"Muthyala-Kandula, Anita",ESCI,D077Y,ESCI D077Y,1,0,0,0,0,0
+2017,Winter,"Phillips, Ryan",ESCI,D090,ESCI D090,13,0,0,0,1,0
+2017,Fall,"Greene, Valerie",ESCI,D001,ESCI D001,16,12,10,1,1,0
+2017,Fall,"Greene, Valerie",ESCI,D001,ESCI D001,21,11,4,1,2,4
+2017,Fall,"Ratsirarson, Helian",ESCI,D001,ESCI D001,28,6,3,1,1,4
+2017,Fall,"Ratsirarson, Helian",ESCI,D001,ESCI D001,23,10,1,0,3,3
+2017,Fall,"Frisbee, Adrienne",ESCI,D001,ESCI D001,37,7,1,1,0,0
+2017,Fall,"Frisbee, Adrienne",ESCI,D001,ESCI D001,37,4,0,0,0,0
+2017,Fall,"Poffenroth, Mary",ESCI,D001,ESCI D001,14,5,5,2,9,4
+2017,Fall,"Poffenroth, Mary",ESCI,D001,ESCI D001,21,5,2,3,4,3
+2017,Fall,"Sanders, Jana",ESCI,D001,ESCI D001,21,9,5,4,1,4
+2017,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,30,0,0,0,0,2
+2017,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,25,0,0,0,1,3
+2017,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,25,1,0,0,2,1
+2017,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,0,0,0,1,1
+2017,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,30,0,0,0,0,2
+2017,Fall,"Greene, Valerie",ESCI,D019,ESCI D019,4,6,0,0,0,3
+2017,Fall,"Greene, Valerie",ESCI,D019,ESCI D019,3,4,1,0,0,1
+2017,Fall,"Greene, Valerie",ESCI,D019,ESCI D019,14,8,3,1,2,1
+2017,Fall,"De Toro, Alicia",ESCI,D077,ESCI D077,0,0,0,0,,
+2017,Fall,"De Toro, Alicia",ESCI,D077X,ESCI D077X,0,0,0,0,,
+2017,Fall,"De Toro, Alicia",ESCI,D077Y,ESCI D077Y,0,0,0,0,,
+2017,Fall,"Phillips, Ryan",ESCI,D082,ESCI D082,9,0,0,0,0,0
+2017,Summer,"Ratsirarson, Helian",ESCI,D001,ESCI D001,5,2,1,0,2,1
+2017,Summer,"Ratsirarson, Helian",ESCI,D001,ESCI D001,10,4,0,0,2,0
+2017,Summer,"Poffenroth, Mary",ESCI,D001,ESCI D001,16,4,0,1,6,4
+2017,Summer,"Sanders, Jana",ESCI,D001,ESCI D001,14,10,5,0,2,3
+2017,Summer,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,9,1,0,0,1,2
+2017,Summer,"Frisbee, Adrienne",ESCI,D001L,ESCI D001L,11,4,0,0,1,2
+2017,Summer,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,15,1,0,0,1,1
+2017,Summer,"Greene, Valerie",ESCI,D019,ESCI D019,8,2,2,1,0,0
+2018,Spring,"Pal, Gayatri",ESCI,D001,ESCI D001,26,9,0,0,1,3
+2018,Spring,"Frisbee, Adrienne",ESCI,D001,ESCI D001,40,7,3,0,0,0
+2018,Spring,"Ratsirarson, Helian",ESCI,D001,ESCI D001,27,5,5,1,2,0
+2018,Spring,"Ratsirarson, Helian",ESCI,D001,ESCI D001,27,9,1,0,2,1
+2018,Spring,"Frisbee, Adrienne",ESCI,D001,ESCI D001,31,11,2,1,2,1
+2018,Spring,"Poffenroth, Mary",ESCI,D001,ESCI D001,30,4,2,0,2,2
+2018,Spring,"Poffenroth, Mary",ESCI,D001,ESCI D001,23,5,1,1,3,3
+2018,Spring,"Poffenroth, Mary",ESCI,D001,ESCI D001,14,6,5,2,3,6
+2018,Spring,"Martin, Miriam",ESCI,D001L,ESCI D001L,11,7,2,0,0,1
+2018,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,23,5,5,0,0,1
+2018,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,16,18,2,0,0,0
+2018,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,24,6,3,0,0,1
+2018,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,16,8,0,0,0,1
+2018,Spring,"Pal, Gayatri",ESCI,D001L,ESCI D001L,24,0,0,0,0,0
+2018,Spring,"Thorensen, Lynn",ESCI,D001L,ESCI D001L,12,7,4,1,1,0
+2018,Spring,"Greene, Valerie",ESCI,D019,ESCI D019,14,6,3,1,2,1
+2018,Spring,"Greene, Valerie",ESCI,D019,ESCI D019,11,8,4,0,1,1
+2018,Spring,"De Toro, Alicia",ESCI,D020,ESCI D020,8,2,2,4,3,0
+2018,Spring,"Greene, Valerie",ESCI,D030,ESCI D030,12,10,4,2,0,0
+2018,Spring,"Greene, Valerie",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2018,Spring,"Greene, Valerie",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2018,Spring,"De Toro, Alicia",ESCI,D077Y,ESCI D077Y,1,0,0,0,0,0
+2018,Spring,"De Toro, Alicia",ESCI,D077Y,ESCI D077Y,1,0,0,0,0,0
+2018,Winter,"Greene, Valerie",ESCI,D001,ESCI D001,20,9,5,3,0,2
+2018,Winter,"Greene, Valerie",ESCI,D001,ESCI D001,19,13,4,2,2,0
+2018,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,17,12,4,0,4,5
+2018,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,32,3,2,0,3,1
+2018,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,26,6,3,1,3,1
+2018,Winter,"Srinivasan, Neela",ESCI,D001,ESCI D001,16,13,7,1,6,1
+2018,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,20,12,1,0,2,4
+2018,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,30,5,3,0,0,1
+2018,Winter,"Poffenroth, Mary",ESCI,D001,ESCI D001,13,3,4,2,4,6
+2018,Winter,"Sanders, Jana",ESCI,D001,ESCI D001,22,7,1,2,1,4
+2018,Winter,"Staudinger, Jeffery",ESCI,D001L,ESCI D001L,19,4,1,0,2,0
+2018,Winter,"Martin, Miriam",ESCI,D001L,ESCI D001L,10,6,1,0,6,3
+2018,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,22,2,0,0,0,4
+2018,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,38,0,0,0,1,0
+2018,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,0,0,0,0,3
+2018,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,30,0,0,0,1,3
+2018,Winter,"Greene, Valerie",ESCI,D019,ESCI D019,13,4,3,1,0,4
+2018,Winter,"Greene, Valerie",ESCI,D019,ESCI D019,12,7,2,1,0,0
+2018,Winter,"De Toro, Alicia",ESCI,D050,ESCI D050,5,3,3,0,5,4
+2018,Winter,"De Toro, Alicia",ESCI,D054,ESCI D054,12,0,0,0,1,1
+2018,Winter,"De Toro, Alicia",ESCI,D057,ESCI D057,7,1,1,0,1,1
+2018,Winter,"De Toro, Alicia",ESCI,D077,ESCI D077,0,1,0,0,1,0
+2018,Winter,"Greene, Valerie",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2018,Winter,"Mccauley, Brian",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2018,Winter,"De Toro, Alicia",ESCI,D077X,ESCI D077X,0,0,0,0,,
+2018,Winter,"De Toro, Alicia",ESCI,D077Y,ESCI D077Y,1,0,0,0,0,0
+2018,Fall,"Phillips, Ryan",ESCI,D001,ESCI D001,33,5,4,0,1,2
+2018,Fall,"Ratsirarson, Helian",ESCI,D001,ESCI D001,25,10,0,0,3,3
+2018,Fall,"Ratsirarson, Helian",ESCI,D001,ESCI D001,30,13,3,0,2,0
+2018,Fall,"Srinivasan, Neela",ESCI,D001,ESCI D001,18,13,5,0,2,3
+2018,Fall,"Frisbee, Adrienne",ESCI,D001,ESCI D001,32,11,3,0,1,1
+2018,Fall,"Frisbee, Adrienne",ESCI,D001,ESCI D001,36,7,0,1,1,1
+2018,Fall,"Greene, Valerie",ESCI,D001,ESCI D001,19,9,2,1,3,0
+2018,Fall,"Poffenroth, Mary",ESCI,D001,ESCI D001,12,5,4,4,8,5
+2018,Fall,"Sanders, Jana",ESCI,D001,ESCI D001,13,10,3,6,2,7
+2018,Fall,"Sanders, Jana",ESCI,D001,ESCI D001,12,11,4,1,1,6
+2018,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,32,0,0,0,0,1
+2018,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,27,0,0,0,0,0
+2018,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,30,0,0,0,0,0
+2018,Fall,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,18,0,0,0,0,0
+2018,Fall,"Phillips, Ryan",ESCI,D001L,ESCI D001L,10,1,2,0,1,0
+2018,Fall,"Greene, Valerie",ESCI,D019,ESCI D019,12,6,1,1,1,6
+2018,Fall,"Greene, Valerie",ESCI,D019,ESCI D019,19,5,4,0,0,3
+2018,Fall,"De Toro, Alicia",ESCI,D021,ESCI D021,9,7,3,2,0,0
+2018,Fall,"Greene, Valerie",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2018,Fall,"Greene, Valerie",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2018,Fall,"De Toro, Alicia",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2018,Fall,"Bram, Jason",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2018,Fall,"De Toro, Alicia",ESCI,D077,ESCI D077,4,0,0,0,1,0
+2018,Fall,"De Toro, Alicia",ESCI,D077X,ESCI D077X,4,0,0,0,0,0
+2018,Fall,"De Toro, Alicia",ESCI,D077Y,ESCI D077Y,3,0,0,0,0,0
+2018,Summer,"Ratsirarson, Helian",ESCI,D001,ESCI D001,19,6,0,0,0,0
+2018,Summer,"Greene, Valerie",ESCI,D001,ESCI D001,19,3,2,0,0,1
+2018,Summer,"Poffenroth, Mary",ESCI,D001,ESCI D001,25,1,5,0,1,3
+2018,Summer,"Poffenroth, Mary",ESCI,D001,ESCI D001,18,5,4,1,4,0
+2018,Summer,"Sanders, Jana",ESCI,D001,ESCI D001,16,11,6,1,3,1
+2018,Summer,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,19,0,0,0,0,3
+2018,Summer,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,28,0,0,0,0,0
+2018,Summer,"Greene, Valerie",ESCI,D019,ESCI D019,19,5,2,0,0,0
+,,,,,,,,,,,
+2019,Spring,"Phillips, Ryan",ESCI,D001,ESCI D001,41,6,0,0,0,0
+2019,Spring,"Phillips, Ryan",ESCI,D001L,ESCI D001L,35,1,0,0,1,0
+2019,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,33,3,0,1,1,2
+2019,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,33,0,0,0,0,1
+2019,Winter,"Greene, Valerie",ESCI,D001,ESCI D001,32,3,4,2,1,2
+2019,Winter,"Phillips, Ryan",ESCI,D001L,ESCI D001L,32,2,2,0,1,0
+2019,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,32,0,0,0,0,0
+2019,Winter,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,32,1,0,0,0,1
+2019,Winter,"Phillips, Ryan",ESCI,D001,ESCI D001,31,7,3,0,0,0
+2019,Spring,"Phillips, Ryan",ESCI,D001L,ESCI D001L,30,4,1,0,0,0
+2019,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,30,14,3,0,0,0
+2019,Spring,"Ratsirarson, Helian",ESCI,D001,ESCI D001,28,8,3,0,0,0
+2019,Spring,"Greene, Valerie",ESCI,D001,ESCI D001,28,6,6,0,0,0
+2019,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,28,6,2,1,2,1
+2019,Winter,"Frisbee, Adrienne",ESCI,D001,ESCI D001,27,10,4,2,0,2
+2019,Winter,"Ratsirarson, Helian",ESCI,D001,ESCI D001,27,9,2,0,1,1
+2019,Winter,"Greene, Valerie",ESCI,D001,ESCI D001,27,6,3,0,3,2
+2019,Spring,"Poffenroth, Mary",ESCI,D001,ESCI D001,26,6,2,0,2,1
+2019,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,26,0,0,0,1,1
+2019,Spring,"Greene, Valerie",ESCI,D001,ESCI D001,24,5,5,0,1,6
+2019,Spring,"McCluskey, Joshua",ESCI,D001L,ESCI D001L,24,2,0,0,1,1
+2019,Spring,"Frisbee, Adrienne",ESCI,D001L,ESCI D001L,23,7,4,0,2,0
+2019,Winter,"Poffenroth, Mary",ESCI,D001,ESCI D001,23,10,3,0,3,2
+2019,Spring,"Ratsirarson, Helian",ESCI,D001,ESCI D001,20,8,8,2,2,4
+2019,Winter,"De Toro, Alicia",ESCI,D001,ESCI D001,18,7,9,2,4,0
+2019,Winter,"Sanders, Jana",ESCI,D001,ESCI D001,17,11,4,1,2,6
+2019,Winter,"De Toro, Alicia",ESCI,D001L,ESCI D001L,17,3,4,2,2,2
+2019,Spring,"Sanders, Jana",ESCI,D001,ESCI D001,16,11,5,0,0,9
+2019,Spring,"Greene, Valerie",ESCI,D019,ESCI D019,16,7,4,0,1,2
+2019,Spring,"Sanders, Jana",ESCI,D001,ESCI D001,15,14,2,2,1,6
+2019,Spring,"Frisbee, Adrienne",ESCI,D058,ESCI D058,14,3,1,0,0,1
+2019,Spring,"Phillips, Ryan",ESCI,D092,ESCI D092,12,0,0,0,0,0
+2019,Spring,"Srinivasan, Neela",ESCI,D001,ESCI D001,11,13,8,2,1,1
+2019,Winter,"Greene, Valerie",ESCI,D019,ESCI D019,11,6,5,0,3,2
+2019,Spring,"Greene, Valerie",ESCI,D019,ESCI D019,10,10,4,1,4,1
+2019,Winter,"Greene, Valerie",ESCI,D019,ESCI D019,7,5,3,0,2,0
+2019,Spring,"Greene, Valerie",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2019,Winter,"Greene, Valerie",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2019,Winter,"Mccauley, Brian",ESCI,D077,ESCI D077,2,0,0,0,0,0
+2019,Winter,"De Toro, Alicia",ESCI,D077X,ESCI D077X,2,0,0,0,0,0
+2019,Spring,"Greene, Valerie",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2019,Spring,"Bram, Jason",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2019,Spring,"Hardin, Rosemary",ESCI,D077X,ESCI D077X,1,0,0,0,0,0
+2019,Spring,"De Toro, Alicia",ESCI,D077Y,ESCI D077Y,1,0,0,0,0,0
+2019,Winter,"Sengupta, Susmita",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2019,Winter,"Staudinger, Jeffery",ESCI,D077,ESCI D077,1,0,0,0,0,0
+2019,Spring,"Staff, M",ESCI,D077,ESCI D077,0,0,0,0,,
+2019,Spring,"Staff, M",ESCI,D077X,ESCI D077X,0,0,0,0,,
+2019,Spring,"Staff, M",ESCI,D077Y,ESCI D077Y,0,0,0,0,,
